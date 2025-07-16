@@ -73,3 +73,12 @@ Converting Bytes to Gigabytes (Decimal Notation): The room specified that the si
 Rounding to the nearest GB, the size of the second partition is 16 GB.
 
 Answer is: 16
+
+========
+
+Task 4.1
+No answer needed
+
+========
+
+Task 5.1
