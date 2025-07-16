@@ -1,7 +1,5 @@
 # TryHackMe: MBR and GPT Analysis
 
-![Banner Image - Optional, you can add a screenshot from the room or a symbolic image]
-
 ## Room Link
 [https://tryhackme.com/room/mbrgptanalysis](https://tryhackme.com/room/mbrgptanalysis)
 
@@ -32,24 +30,3 @@ This room provided me with a solid foundation for understanding how operating sy
     * *Initially, I struggled with interpreting raw hexadecimal data, but with the aid of specific tools and a systematic approach, I was able to extract key information.*
     * *The task involving the identification of a specific bootkit type required precise analysis of signatures within the MBR, which was an excellent exercise in meticulousness.*
 * **Real-World Application:** The knowledge gained in this room is directly applicable to digital forensics and incident response, especially when suspecting a low-level infection. Understanding the boot process is fundamental for effectively diagnosing system boot issues and detecting advanced threats.
-
-## Answers to Questions (Tasks)
-
-Below are the answers to the key questions from the room, along with brief explanations.
-
-### Task 1
-**What are the separate sections on a disk known as?**
-* **Answer:** Partitions
-* **Explanation:** On a hard drive, data is organised into distinct, independent sections called partitions. Each partition functions like a separate logical drive, capable of storing files and operating systems. Partitioning aids in data management, allowing for multiple operating systems on one disk, and provides data isolation.
-
-### Task 1
-**Which type of malware infects the boot process?**
-* **Answer:** Bootkits
-* **Explanation:** A bootkit is a type of malicious software designed to infect the Master Boot Record (MBR) or GUID Partition Table (GPT) of a hard drive. These are critical areas that contain instructions for how the operating system should start. By infecting the boot process, a bootkit can load very early, even before the operating system fully boots, making it particularly difficult for standard antivirus software to detect and remove.
-
-### [Add subsequent Tasks and answers in a similar fashion]
-* **Task X:** Question from the room
-    * **Answer:** Your answer
-    * **Explanation:** Brief explanation, if you deem it appropriate.
-
----
