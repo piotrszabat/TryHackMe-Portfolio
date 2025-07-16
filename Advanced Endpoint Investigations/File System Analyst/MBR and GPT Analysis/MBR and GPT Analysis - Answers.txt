@@ -1,0 +1,7 @@
+Task 1 
+What are the separate sections on a disk known as?
+partitions
+
+Task 1
+Which type of malware infects the boot process?
+bootkits
