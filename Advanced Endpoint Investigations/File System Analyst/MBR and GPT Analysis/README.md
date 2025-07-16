@@ -1,7 +1,5 @@
 # TryHackMe: MBR and GPT Analysis
 
-![Banner Image - Optional, you can add a screenshot from the room or a symbolic image]
-
 ## Room Link
 [https://tryhackme.com/room/mbrgptanalysis](https://tryhackme.com/room/mbrgptanalysis)
 
