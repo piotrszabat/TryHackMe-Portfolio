@@ -1,12 +1,12 @@
 Answers to MBR and GPT Analysis room.
 
-Task 1 
+Task 1.1
 What are the separate sections on a disk known as?
 partitions
 
 Explanation: On a hard drive, data is organised into distinct, independent sections called partitions. Each partition functions like a separate logical drive, capable of storing files and operating systems. Partitioning aids in data management, allowing for multiple operating systems on one disk, and provides data isolation. The provided text file references C, D, and E partitions as examples.
 
-Task 1
+Task 1.2
 Which type of malware infects the boot process?
 bootkits
 
@@ -14,22 +14,62 @@ Explanation: A bootkit is a type of malicious software designed to infect the Ma
 
 ========
 
-Task 2
+Task 2.1
 What is the name of the hardware diagnostic check performed during the boot process?
 Power-On-Self-Test
 
 Explanation: The Power-On Self-Test (POST) is an initial diagnostic routine that runs automatically when a computer is turned on. It's performed by the system's firmware (BIOS or UEFI) and its main purpose is to check if the basic hardware components of the system (like CPU, RAM, video card, keyboard, and storage devices) are present and functioning correctly before the operating system is loaded. If POST detects a critical error, it typically signals it through beeps or on-screen messages.
 
-Task 2
+Task 2.2
 Which firmware supports a GPT partitioning scheme?
 UEFI
 
 Explanation: UEFI (Unified Extensible Firmware Interface) is the modern successor to the traditional BIOS firmware. One of its significant advantages is native support for the GPT (GUID Partition Table) partitioning scheme. GPT offers several benefits over the older MBR scheme, such as support for hard drives larger than 2TB, more primary partitions (up to 128 by default), and better data integrity through redundant partition table copies. While some older systems might have limited GPT support with BIOS, UEFI is the firmware designed to fully leverage GPT's capabilities.
 
-Task 2
+Task 2.3
 Which device has the operating system to boot the system?
 bootable device
 
 Explanation: A bootable device is any storage hardware (such as a hard drive, solid-state drive, USB drive, or CD/DVD-ROM) that contains a complete operating system and the necessary boot files to start a computer. During the boot process, after the POST completes, the system's firmware (BIOS or UEFI) looks for a bootable device based on a predefined boot order. Once found, the bootloader on that device is executed, which then initiates the loading of the operating system into memory.
 
 ========
+
+Task 3.1
+Which component of the MBR contains the details of all the partitions present on the disk?
+Answer is: partition table
+
+Task 3.2
+What is the standard sector size of a disk in bytes?
+Answer is: 512 
+
+Task 3.3
+Which component of the MBR is responsible for finding the bootable partition?
+Answer is: bootloader code
+
+Task 3.4
+What is the magic number inside the MBR?
+Answer is: 55 AA
+
+Task 3.5
+What is the maximum number of partitions MBR can support?
+Answer is: 4
+
+Task 3.6
+What is the size of the second partition in the MBR attached to the machine? (rounded to the nearest GB)
+To determine the size of the second partition, I initiated the VM and loaded the provided MBR file into HxD Editor. The process involved:
+
+Locating the Partition Table: As per the room's guidance, the MBR's partition table begins at byte 446. Knowing that each partition entry is 16 bytes long, the second partition's entry starts at byte 462 (446 + 16). I navigated directly to this offset using HxD's "Go to" function.
+
+Extracting Sector Count: Within the 16-byte entry for the second partition, the last 4 bytes represent the total count of sectors. In this case, the hexadecimal value found was 00 38 EB 01.
+
+Converting to Decimal (Big-Endian): Since the value is stored in little-endian format, I reversed the bytes to 01 EB 38 00 (big-endian). Converting this hexadecimal value to decimal yielded 3219512 sectors.
+
+Calculating Partition Size in Bytes: Given that each sector is 512 bytes, the total size of the partition in bytes was calculated by multiplying the sector count by the sector size:
+3219512 sectors * 512 bytes/sector = 16482566144 bytes
+
+Converting Bytes to Gigabytes (Decimal Notation): The room specified that the size should be represented using decimal notation (1 KB = 1000 bytes). Therefore, to convert bytes to gigabytes, I performed the following calculation:
+16482566144 bytes / 1000^3 (B -> KB -> MB -> GB) = 16.482566144 GB
+
+Rounding to the nearest GB, the size of the second partition is 16 GB.
+
+Answer is: 16
