@@ -1,7 +1,15 @@
+Answers to MBR and GPT Analysis room.
+
 Task 1 
 What are the separate sections on a disk known as?
 partitions
 
+Explanation: On a hard drive, data is organised into distinct, independent sections called partitions. Each partition functions like a separate logical drive, capable of storing files and operating systems. Partitioning aids in data management, allowing for multiple operating systems on one disk, and provides data isolation. The provided text file references C, D, and E partitions as examples.
+
+========
+
 Task 1
 Which type of malware infects the boot process?
 bootkits
+
+Explanation: A bootkit is a type of malicious software designed to infect the Master Boot Record (MBR) or GUID Partition Table (GPT) of a hard drive. These are critical areas that contain instructions for how the operating system should start. By infecting the boot process, a bootkit can load very early, even before the operating system fully boots, making it particularly difficult for standard antivirus software to detect and remove.
