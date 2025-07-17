@@ -1,0 +1,4 @@
+Answers to FAT32 Analysis room.
+
+Task 1.1
+
