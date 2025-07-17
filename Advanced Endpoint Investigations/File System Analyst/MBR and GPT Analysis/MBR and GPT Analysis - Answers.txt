@@ -120,4 +120,17 @@ No answer needed
 =====
 
 Task 8.1
+Which partition has the bootloader in it?
+Answer is: EFI System Partition
+
+Task 8.2
+What is the malicious string embedded in the bootloader?
+
+For this task we need to use bootmgr.efi. On scrolling a few lines I noticed a string that ended in “==”. Strings that end with equal signs are almost always base64 encoded.
+SGVsbG8sIEVGSSBCb290a2l0IQ==
+
+On decoding the string we get the malicious message.
+CyberChef — Decode Recipie
+
+Answer is: Hello, EFI Bootkit!
 
