@@ -111,3 +111,8 @@ Task 6.2
 What is the partition type GUID of the 2nd partition given in the attached GPT file?
 Answer is: E3C9E316-0B5C-4DB8-817D-F92DF00215AE
 
+=======
+
+Task 7.1 
+Complete this task.
+No answer needed
