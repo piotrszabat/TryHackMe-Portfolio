@@ -76,4 +76,39 @@ Task 9.2
 What is the output of the deleted PowerShell script after executing it? Note: In real-life investigations, we will only execute a suspicious file in a sandboxed environment.
 Answer is: THM{r3Tr!3v3D_3v!d3nC3}
 
+=====
+
+Task 10-1
+At which offset does the FAT1 table begin? Fill in the complete offset number XXXXXXXX.
+Answer is: 0020FC00
+
+Task 10-2
+What is the name of the hidden directory on the image? (Excluding the System Volume Information folder and the Recycle Bin).
+Answer is: Exfiltrated_data
+
+Task 10-3
+What is the flag found in the hidden directory? 
+Answer is: THM{D@t@3xf!lL}
+
+Task 10-4
+What is the size (bytes) of the archive file in the hidden directory?
+Answer is: 10862
+
+Task 10-5
+What is the name of the deleted file that is present on the image?
+Answer is: Reverseshell.py
+
+Task 10-6
+What is the flag included in the deleted file?
+Answer is: THM{B@ckD00rF0unD}
+
+Task 10-7
+What is the name of the file that has suspicious timestamp(s) (name.extension)?
+Answer is: Legal_Affairs_Notes.txt
+
+Task 10-8
+What is the flag included in the file with suspicious timestamps?
+Answer is: THM{D@t@g@tH3r!nG} 
+
+
 
