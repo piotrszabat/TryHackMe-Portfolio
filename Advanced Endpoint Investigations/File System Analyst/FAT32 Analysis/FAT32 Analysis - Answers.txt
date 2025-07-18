@@ -29,3 +29,15 @@ Answer is: 10000000
 Task 4.2
 Using the FAT32_structure.001 image, answer the following question: At which offset does the  FAT2 table start ( give in the offset value without spaces)? Remember, FAT1 starts right after the Reserved Sectors and FAT2 starts right after FAT1.
 Answer is: 00387E00
+
+=====
+
+Task 5.1
+What is the filename of the file that starts at cluster 9?
+Answer is: careers.txt
+
+Task 5.2
+What is the creation time of the file that starts at cluster 9? Please provide the hexadecimal value of the Creation time field.
+Answer is: F484
+
+=====
