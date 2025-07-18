@@ -1,4 +1,8 @@
 Answers to FAT32 Analysis room.
 
 Task 1.1
+Are you ready to start analyzing FAT32?
+No answer needed
+
+
 
