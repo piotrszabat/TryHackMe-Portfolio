@@ -45,3 +45,35 @@ Answer is: F484
 Task 6.1 
 Which analysis technique can we use to look for hidden files and directories?
 Answer is: Directory Structure and File Name Analysis
+
+=====
+
+Task 7.1
+What is the short file name of the hidden file in the M@lL0v3 directory?
+Answer is: BEMYVA~1
+
+Task 7.2
+What is the flag found during automated analysis?
+Answer is: THM{F0uNdTh3H!Dd3nF1l3}
+
+=====
+
+Task 8.1
+What is the Accessed timestamp of the discovered suspicious file?
+Answer is: 2018-01-10 00:00:00
+
+Task 8.2
+What is the flag found during the automated analysis?
+Answer is: THM{T1m3St0Mp3D}
+
+=====
+
+Task 9.1
+Which hexadecimal sequence identifies a deleted file?
+Answer is: E5
+
+Task 9.2
+What is the output of the deleted PowerShell script after executing it? Note: In real-life investigations, we will only execute a suspicious file in a sandboxed environment.
+Answer is: THM{r3Tr!3v3D_3v!d3nC3}
+
+
