@@ -41,3 +41,7 @@ What is the creation time of the file that starts at cluster 9? Please provide t
 Answer is: F484
 
 =====
+
+Task 6.1 
+Which analysis technique can we use to look for hidden files and directories?
+Answer is: Directory Structure and File Name Analysis
