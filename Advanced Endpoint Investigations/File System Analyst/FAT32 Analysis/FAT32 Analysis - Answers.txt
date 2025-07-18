@@ -4,5 +4,13 @@ Task 1.1
 Are you ready to start analyzing FAT32?
 No answer needed
 
+=====
 
+Task 2.1
+Boot up the VM and continue with the next task.
+No answer needed
+
+=====
+
+Task 3.1
 

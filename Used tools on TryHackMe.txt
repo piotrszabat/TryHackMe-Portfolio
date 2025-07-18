@@ -1,0 +1,3 @@
+Tools that i used using TryHackMe website to pracitce my skills.
+1. HxD - 
+2. Autopsy 4.21.0
