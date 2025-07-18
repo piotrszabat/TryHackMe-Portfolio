@@ -20,3 +20,12 @@ Task 3.2
 What category of tactic is MITRE ATT&CK TA0005?
 Answer is: Defense Evasion
 
+====
+
+Task 4.1
+We have a hypothetical file B and its cluster chain starts at cluster F and ends at cluster 10 . What would be the value of the FAT entry at cluster F? Provide the value as you would read it in the HxD editor (e.g. 00001111). Note: File B is not a file on the image. 
+Answer is: 10000000
+
+Task 4.2
+Using the FAT32_structure.001 image, answer the following question: At which offset does the  FAT2 table start ( give in the offset value without spaces)? Remember, FAT1 starts right after the Reserved Sectors and FAT2 starts right after FAT1.
+Answer is: 00387E00
