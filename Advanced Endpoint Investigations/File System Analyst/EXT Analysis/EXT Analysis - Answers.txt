@@ -36,4 +36,21 @@ Task 5-2
 What is the creation time of the file timestomped.txt? (Format: YYYY-MM-DD hh:mm:ss)
 Answer is: 2025-01-06 03:34:09
 
+=====
+
+Task 6-1
+Identify the timestomped file in the mounted file system in /mnt/ext_exercises. What is the original creation date of the file? (Format: YYYY-MM-DD hh:mm:ss)
+Answer is: 2025-01-09 02:27:53
+
+Task 6-2
+What is the flag in the deleted file that starts with the characters "FFFFFFFFFF" in the mounted file system in /mnt/ext_exercises?
+Answer is: TMH{sup3r-d3l3Ted-fil3-you-g0tit-nice}
+
+=====
+
+Task 7-1 
+Click to finish your journey through the EXT file system fundamentals and complete the room.
+No answer needed
+
+
 
