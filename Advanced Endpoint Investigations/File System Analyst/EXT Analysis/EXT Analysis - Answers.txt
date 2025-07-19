@@ -13,3 +13,9 @@ Answer is: s_first_data_block
 Task 2-2
 What is the offset where we can find the member s_blocks_count_lo in the ext4_super_block struct? (decimal format)
 Answer is: 4
+
+=====
+
+Task 3-1 
+What is the inode number for the file /etc/passwd in the VM?
+Answer is: 10083
