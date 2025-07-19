@@ -1,2 +1,18 @@
 Answers to NTFS Analysis room.
 
+Task 1-1
+Continue to the next task.
+No answer needed
+
+=====
+
+Task 2-1
+I have successfully turned on the VM.
+No answer needed
+
+=====
+
+Task 3-1
+Which feature does NTFS use to keep track of the changes within the file system?
+Answer is: journaling
+
