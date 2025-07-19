@@ -51,3 +51,23 @@ Answer is: WelDone_You_F0und_M3
 Task 5-7
 What is the file name associated with the MFT entry number "584574"?
 Answer is: SharpHound.ps1
+
+=====
+
+Task 6-1 
+What is the text file name associated with entry number 95071 before renaming it?
+Answer is: New Text Document.txt
+
+Task 6-2
+According to the record, what is the first operation performed on the file in the question above?
+Answer is: FileCreate
+
+Task 6-3
+According to the record in $J, what is the count of the rename operation found against secret_code.txt?
+Answer is: 2
+
+Task 6-4
+According to the record, when was the secret_code.txt file deleted?
+Answer is: 2025-01-15 08:10:04
+
+
