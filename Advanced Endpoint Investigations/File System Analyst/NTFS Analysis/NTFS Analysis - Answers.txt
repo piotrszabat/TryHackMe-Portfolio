@@ -22,3 +22,32 @@ Task 4-1
 Double-click on the $UsnJrnl file in the $Extend folder; what is the first evidence file you find?
 Answer is: $J
 
+=====
+ 
+Task 5-1
+Which column indicates that the file is no longer present on the disk?
+Answer is: In Use
+
+Task 5-2
+Examine the MFT record; what is the network sniffer installed on this system in the \Program Files\ directory?
+Answer is: wireshark
+
+Task 5-3
+An anti-forensics tool responsible for wiping out an attacker’s traces was installed in the \Downloads\Tools folder. What is the name of the tool?
+Answer is: DiskWipe.exe
+
+Task 5-4
+According to the MFT record, is the anti-forensics tool currently present on the disk? (yay or nay)
+Answer is: nay
+
+Task 5-5
+Examining the MFT record, it seems there is a record of a flag.txt file. What is the parent path of the file? 
+Answer is: .\tmp\secret_directory
+
+Task 5-6
+What is the content of the flag.txt file?
+Answer is: WelDone_You_F0und_M3
+
+Task 5-7
+What is the file name associated with the MFT entry number "584574"?
+Answer is: SharpHound.ps1
