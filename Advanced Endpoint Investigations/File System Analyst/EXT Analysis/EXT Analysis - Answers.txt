@@ -19,3 +19,21 @@ Answer is: 4
 Task 3-1 
 What is the inode number for the file /etc/passwd in the VM?
 Answer is: 10083
+
+=====
+
+Taks 4-1
+What is the btime for the file /etc/passwd? 
+Answer is: 2024-11-28 21:52:28.724316576
+
+=====
+
+Task 5-1
+Select Data Sources > ext4_case.img_1 Host > ext4_case.img and select the file normal_file.txt. Analyze the data in the File Metadata tab on the bottom pane. What is the inode number of the file?
+Answer is: 12
+
+Task 5-2
+What is the creation time of the file timestomped.txt? (Format: YYYY-MM-DD hh:mm:ss)
+Answer is: 2025-01-06 03:34:09
+
+
