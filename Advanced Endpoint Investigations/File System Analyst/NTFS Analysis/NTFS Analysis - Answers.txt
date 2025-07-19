@@ -16,3 +16,9 @@ Task 3-1
 Which feature does NTFS use to keep track of the changes within the file system?
 Answer is: journaling
 
+=====
+
+Task 4-1
+Double-click on the $UsnJrnl file in the $Extend folder; what is the first evidence file you find?
+Answer is: $J
+
