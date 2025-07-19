@@ -4,3 +4,12 @@ Task 1-1
 Let's get started!
 No answer needed
 
+=====
+
+Task 2-1
+What is the member of the ext4_super_block struct that holds the offset value to the first data block?
+Answer is: s_first_data_block
+
+Task 2-2
+What is the offset where we can find the member s_blocks_count_lo in the ext4_super_block struct? (decimal format)
+Answer is: 4
