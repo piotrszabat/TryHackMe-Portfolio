@@ -70,4 +70,21 @@ Task 6-4
 According to the record, when was the secret_code.txt file deleted?
 Answer is: 2025-01-15 08:10:04
 
+=====
+
+Task 7-1
+How many deleted files or folders are present in the $I30 attribute file that was extracted in this task?
+Answer is: 52
+
+Task 7-2
+What is the parent MFT entry of the nmap directory?
+Answer is: 512386
+
+=====
+
+Task 8-1 
+Continue to complete the room.
+No answer needed
+
+
 
