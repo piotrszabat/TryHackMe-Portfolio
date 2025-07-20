@@ -8,3 +8,4 @@ Tools that i used using TryHackMe website to pracitce my skills.
 7. Okteta
 8. Binwalk 
 9. Hex editor
+10. EzTools

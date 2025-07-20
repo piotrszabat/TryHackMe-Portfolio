@@ -74,4 +74,11 @@ Task 6-4
 What flag is hidden in the image file found?
 Answer is: THM{D4t3_0f_D3l3t10n_2024-12-10}
 
+=====
+
+Task 7-1
+Now, I am equipped with knowledge in file carving.
+No answer needed
+
+
 
