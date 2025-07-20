@@ -4,3 +4,5 @@ Tools that i used using TryHackMe website to pracitce my skills.
 3. Powershell
 4. AccessFata FTK Imager 4.5.0.3
 5. Timeline Explorer
+6. Ubuntu Terminal
+7.
