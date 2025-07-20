@@ -1,3 +1,21 @@
 Answers to File Carving room.
 
 Task 1-1
+I am ready to embark on a file carving quest.
+No answer needed
+
+=====
+
+Task 2-1 
+What file signature is used to identify JPEG files?
+Answer is: FFD8FFE0
+
+Task 2-2
+What file signature is used to identify Windows Shortcut files? Answer with no spaces.
+Answer is: 4C00000001140200
+
+=====
+
+Task 3-1 
+Time to put some of the tools to action.
+No answer needed
