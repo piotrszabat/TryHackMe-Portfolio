@@ -19,3 +19,25 @@ Answer is: 4C00000001140200
 Task 3-1 
 Time to put some of the tools to action.
 No answer needed
+
+=====
+
+Task 4-1
+What is the ending offset address of the PNG file in Challenge1_Manual_Carve_usb.img?
+Answer is: 0001526426
+
+Task 4-2
+From the disk file Challenge1_Manual_Carve_usb.img, what is the flag hidden within the recovered file?
+Answer is: THM{F1le_Carving_1s_FuN}
+
+Task 4-3
+What is the file size of the recovered image file in KB from Challenge2_slack_space.img?
+Answer is: 31
+
+Task 4-4
+What is the name of the extracted file that has no extension from Challenge2_slack_space.img?
+Answer is: randomstuff
+
+Task 4-5
+What is the flag hidden within the recovered file from Challenge2_slack_space.img?
+Answer is: THM{Fragm3nt_C@rv1ng}
