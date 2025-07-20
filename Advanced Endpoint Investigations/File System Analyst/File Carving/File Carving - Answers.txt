@@ -41,3 +41,18 @@ Answer is: randomstuff
 Task 4-5
 What is the flag hidden within the recovered file from Challenge2_slack_space.img?
 Answer is: THM{Fragm3nt_C@rv1ng}
+
+=====
+
+Task 5-1 
+What is the original name of the recovered PDF file?
+Answer is: DataSyncTHM_project_phoenix.txt
+
+Task 5-2
+What is the flag in the file?
+Answer is: THM{ProjectPhoenix_123}
+
+Task 5-3
+What is the flag in the image file recovered?
+Answer is: THM{Aut0mat3d_C@rv1ng}
+
