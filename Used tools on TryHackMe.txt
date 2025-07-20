@@ -6,4 +6,5 @@ Tools that i used using TryHackMe website to pracitce my skills.
 5. Timeline Explorer
 6. Ubuntu Terminal
 7. Okteta
-8.
+8. Binwalk 
+9. Hex editor

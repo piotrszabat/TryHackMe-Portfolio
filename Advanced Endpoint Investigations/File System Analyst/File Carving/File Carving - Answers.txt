@@ -56,3 +56,22 @@ Task 5-3
 What is the flag in the image file recovered?
 Answer is: THM{Aut0mat3d_C@rv1ng}
 
+=====
+
+Task 6-1
+Using Binwalk and the hex editor, what is the beginning and ending offset of the XML file in the disk image? Answer: Starting,Ending
+Answer is: 134946816,135012619
+
+Task 6-2
+What is the actual file type of the file found in Question 1?
+Answer is: SVG
+
+Task 6-3
+How long is the playback from the audio file? (Answer is in seconds)
+Answer is: 18.29
+
+Task 6-4
+What flag is hidden in the image file found?
+Answer is: THM{D4t3_0f_D3l3t10n_2024-12-10}
+
+
