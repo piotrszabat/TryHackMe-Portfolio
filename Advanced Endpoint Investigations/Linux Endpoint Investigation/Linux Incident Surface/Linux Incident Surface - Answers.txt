@@ -28,6 +28,23 @@ Update the osquery command. What is the remote port the netcom process is commun
 
 =====
 
+Task 5-1
+What is the default path that contains all the installed services in Linux?
+Answer is: /etc/systemd/system
+
+Task 5-2
+Which suspicious service was found to be running on the host?
+Answer is: benign.service
+
+Task 5-3
+What process does this service point to?
+Answer is: benign
+
+Task 5-4
+Before getting this service stopped on 11th Sept, how many log entries were observed in the journalctl against this service?
+Answer is: 7
+
+
 
 
 
