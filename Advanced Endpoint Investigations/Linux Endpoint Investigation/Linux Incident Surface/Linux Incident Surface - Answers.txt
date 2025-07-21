@@ -26,6 +26,8 @@ Task 4-2
 Update the osquery command. What is the remote port the netcom process is communicating to?
 443
 
+=====
+
 
 
 
