@@ -4,13 +4,27 @@ Task 1-1
 Continue to the next task.
 No answer needed
 
+=====
+
 Task 2-1
 Connect with the lab. How many files and folders are in the /home/activities/processes directory?
 Answer is: 3
 
+=====
+
 Task 3-1
 Continue to the next task.
 No answer needed
+
+=====
+
+Task 4-1
+What is the remote IP to which the process netcom establishes the connection?
+Answer is: 68.53.23.246
+
+Task 4-2
+Update the osquery command. What is the remote port the netcom process is communicating to?
+443
 
 
 
