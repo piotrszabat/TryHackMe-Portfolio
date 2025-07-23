@@ -44,6 +44,16 @@ Task 5-2
 View the journalctl logs associated with the backdoor service. What is the flag you discover?
 Answer is: THM{053c12e620acea8a77b4bdcba578ca19}
 
+=====
+
+Task 6-1
+What is the full URL that receives Janice's private SSH key on system startup?
+Answer is: http://aabab.best-it-services.thm/id_rsa
+
+Task 6-2
+Identify and investigate the remaining .desktop files on the system. What is the command that executes with the Show Network Interfaces autostart script?
+Answer is: ifconfig
+
 
 
 
