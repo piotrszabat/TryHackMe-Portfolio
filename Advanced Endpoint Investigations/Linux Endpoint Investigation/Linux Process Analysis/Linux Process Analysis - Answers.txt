@@ -54,6 +54,23 @@ Task 6-2
 Identify and investigate the remaining .desktop files on the system. What is the command that executes with the Show Network Interfaces autostart script?
 Answer is: ifconfig
 
+=====
+
+Task 7-1
+Analyse Janice's .viminfo log. What flag do you find within the Vim search history?
+Answer is: THM{4a8fd984228d89999342d189e6b916de}
+
+Task 7-2
+Use DumpZilla to investigate Eduardo's Firefox bookmarks. What flag do you find in one of the entries?
+Answer is: THM{5d5cb0ffe8369ab08f1e90aa9e9bc24e}
+
+=====
+
+Task 8-1
+Click and continue learning!
+No answer needed
+
+
 
 
 
