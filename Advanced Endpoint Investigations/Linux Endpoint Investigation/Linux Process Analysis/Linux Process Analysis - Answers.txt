@@ -36,6 +36,16 @@ Answer is: THM{851a981445dbfb9485c3771510a53568}
 
 =====
 
+Task 5-1
+List all running services on the system. What is the flag you discover in the backdoor service's description?
+Answer is: THM{4922066dc6494e8d4d507eef2205c262}
+
+Task 5-2
+View the journalctl logs associated with the backdoor service. What is the flag you discover?
+Answer is: THM{053c12e620acea8a77b4bdcba578ca19}
+
+
+
 
 
 
