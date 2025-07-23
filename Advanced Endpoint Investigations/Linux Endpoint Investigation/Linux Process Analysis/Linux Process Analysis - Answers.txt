@@ -20,6 +20,23 @@ Task 3-2
 Use pstree to list out the process hierarchies. What is the name of the nc processes parent?
 Answer is: abzkd83o4jakxld
 
+=====
+
+Task 4-1
+Search around the system for suspicious system-level cronjob entries. What is the full URL of the C2 server?
+Answer is: http://c2.intelligent-software.thm:8310/beacon
+
+Task 4-2
+List the user-level cronjobs in the system. What is the hidden flag in one of the scripts?
+Answer is: THM{4682786cf2d92f01c4d30a2bbf4621f7}
+
+Task 4-3
+Use pspy64 to monitor executions occurring through the system. What is the decoded flag value that is echoed every 15 seconds?
+Answer is: THM{851a981445dbfb9485c3771510a53568}
+
+=====
+
+
 
 
 
