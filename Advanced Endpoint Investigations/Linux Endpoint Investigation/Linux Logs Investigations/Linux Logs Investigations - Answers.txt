@@ -19,3 +19,11 @@ What is the default log level used to inform about non-imminent errors?
 Answer is: WARNING
 
 =====
+
+Task 3-1
+Which log file can be used to record failed login attempts only?
+Answer is: btmp
+
+=====
+
+Task 4-1
