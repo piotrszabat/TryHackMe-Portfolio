@@ -43,3 +43,9 @@ Answer is: Storage
 =====
 
 Task 6-1
+Which utility is used to search for auditd logs?
+Answer is: ausearch
+
+=====
+
+Task 7-1
