@@ -51,3 +51,10 @@ Answer is: ausearch
 Task 7-1
 What command can be used to search logs related to a session opened for a user?
 Answer is: sudo grep -i "session opened" /var/log/auth.log
+
+=====
+
+Task 8-1
+Which folder contains Apache2 logs?
+Answer is: /var/log/apache2
+
