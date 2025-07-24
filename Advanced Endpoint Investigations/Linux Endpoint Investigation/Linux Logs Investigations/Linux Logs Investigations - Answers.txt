@@ -27,3 +27,19 @@ Answer is: btmp
 =====
 
 Task 4-1
+What severity level keyword is used to indicate immediate action is needed in a syslog message?
+Answer is: alert
+
+Task 4-2
+What facility code is used for cron jobs?
+Answer is: 9
+
+=====
+
+Task 5-1
+To configure the persistence of journal logs, which parameter has to be modified within the journald configuration file?
+Answer is: Storage
+
+=====
+
+Task 6-1
