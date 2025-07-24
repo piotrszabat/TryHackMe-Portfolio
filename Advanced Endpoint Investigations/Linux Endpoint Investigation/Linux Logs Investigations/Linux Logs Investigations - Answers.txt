@@ -58,3 +58,30 @@ Task 8-1
 Which folder contains Apache2 logs?
 Answer is: /var/log/apache2
 
+=====
+
+Task 9-1
+What is the IP address from which the application was exploited?
+Answer is: 10.10.190.69
+
+Task 9-2
+What file contains the reverse shell?
+Answer is: cmd.php
+
+Task 9-3
+At which port was the reverse shell running?
+Answer is: 5000
+
+Task 9-4
+What is the file name that was being executed with sudo privileges?
+Answer is: tests.sh
+
+Task 9-5
+What is the name of the user created using the service?
+Answer is: attacker
+
+Task 9-6
+Was the new account ever logged in to? y/n
+Answer is: n
+
+
