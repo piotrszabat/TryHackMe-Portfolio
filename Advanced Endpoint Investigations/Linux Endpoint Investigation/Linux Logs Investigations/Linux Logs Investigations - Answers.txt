@@ -84,4 +84,11 @@ Task 9-6
 Was the new account ever logged in to? y/n
 Answer is: n
 
+=====
+
+Task 10-1
+Yay! I have completed the room!
+No answer needed
+
+
 
