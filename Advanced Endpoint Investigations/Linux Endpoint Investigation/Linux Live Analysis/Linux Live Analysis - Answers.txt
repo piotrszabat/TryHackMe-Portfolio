@@ -16,5 +16,16 @@ Task 3-1
 Continue to the next task.
 No answer needed
 
+=====
+
+Task 4-1
+What hostname is returned after running the following query?
+Query: select * from etc_hosts where address = '0.0.0.0';
+Answer is: attacker.thm
+
+Task 4-2
+On the official website, how many tables are listed for Linux OS?
+Answer is: 154
+
 
 
