@@ -27,5 +27,17 @@ Task 4-2
 On the official website, how many tables are listed for Linux OS?
 Answer is: 154
 
+=====
+
+Task 5-1
+What is the Machine ID of the machine we are investigating?
+Answer is: dc7c8ac5c09a4bbfaf3d09d399f10d96
+
+Task 5-2
+What is the architecture of the host we are investigating?
+Answer is: x86_64
+
+
+
 
 
