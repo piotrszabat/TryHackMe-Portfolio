@@ -37,6 +37,22 @@ Task 5-2
 What is the architecture of the host we are investigating?
 Answer is: x86_64
 
+=====
+
+Task 6-1
+What is the name of the process running from the tmp directory? (Note: Not Hidden one)
+Answer is: sshdd
+
+Task 6-2
+What is the name of the suspicious process running in the memory of the infected host?
+Answer is: .systm_updater
+
+Task 6-3
+What is the name of the process running from the user directory?
+Answer is: rdp_updater
+
+
+
 
 
 
