@@ -51,6 +51,14 @@ Task 6-3
 What is the name of the process running from the user directory?
 Answer is: rdp_updater
 
+=====
+
+Task 7-1 
+What is the state of the local port that is listening on port 80?
+Answer is: ESTABLISHED
+
+
+
 
 
 
