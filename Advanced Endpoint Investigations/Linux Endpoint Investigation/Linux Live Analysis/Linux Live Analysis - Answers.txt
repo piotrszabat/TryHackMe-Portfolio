@@ -79,6 +79,24 @@ Task 8-5
 The suspicious package contains a secret code. What is the code hidden in the description?
 Answer is: {NOT_SO_BENIGN_Package}
 
+=====
+
+Task 9-1
+Which suspicious service was observed to be installed on this infected machine using netcat?
+Answer is: systm.service
+
+Task 9-2
+What is the full path of the process found in the cron table?
+Answer is: /home/badactor/storage/.secret_docs/rdp_updater
+
+=====
+
+Task 10-1
+Continue to complete the room.
+Answer is: No answer needed
+
+
+
 
 
 
