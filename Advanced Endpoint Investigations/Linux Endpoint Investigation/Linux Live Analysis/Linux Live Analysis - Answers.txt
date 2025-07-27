@@ -57,6 +57,30 @@ Task 7-1
 What is the state of the local port that is listening on port 80?
 Answer is: ESTABLISHED
 
+=====
+
+Task 8-1
+Investigate the opened files. What is the opened file associated with the suspicious process running on the system?
+Answer is: keylogger.log
+
+Task 8-2
+What is the name of the process that is associated with the suspicious file found in the above question?
+Answer is: sshdd
+
+Task 8-3
+What is the name of the hidden binary found in the root directory?
+Answer is: .systmd
+
+Task 8-4
+What is the name of the suspicious package installed on the host?
+Answer is: datacollector
+
+Task 8-5
+The suspicious package contains a secret code. What is the code hidden in the description?
+Answer is: {NOT_SO_BENIGN_Package}
+
+
+
 
 
 
