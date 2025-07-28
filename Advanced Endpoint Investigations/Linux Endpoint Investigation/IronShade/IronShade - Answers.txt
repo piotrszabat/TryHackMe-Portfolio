@@ -1,5 +1,53 @@
 Answers to IronShade room.
 
+Task 1-1
+What is the Machine ID of the machine we are investigating?
+Answer is: dc7c8ac5c09a4bbfaf3d09d399f10d96
+
+Task 1-2
+What backdoor user account was created on the server?
+Answer is: mircoservice
+
+Task 1-3
+What is the cronjob that was set up by the attacker for persistence?
+Answer is: @reboot /home/mircoservice/printer_app
+
+Task 1-4
+Examine the running processes on the machine. Can you identify the suspicious-looking hidden process from the backdoor account?
+Answer is: .strokes
+
+Task 1-5
+How many processes are found to be running from the backdoor account’s directory?
+Answer is: 2
+
+Task 1-6
+What is the name of the hidden file in memory from the root directory?
+Answer is: .systmd
+
+Task 1-7
+What suspicious services were installed on the server? Format is service a, service b in alphabetical order.
+Answer is: backup.service, strokes.service
+
+Task 1-8
+Examine the logs; when was the backdoor account created on this infected system?
+Answer is: Aug  5 22:05:33
+
+Task 1-9
+From which IP address were multiple SSH connections observed against the suspicious backdoor account?
+Answer is: 10.11.75.247 
+
+Task 1-10
+How many failed SSH login attempts were observed on the backdoor account?
+Answer is: 8
+
+Task 1-11
+Which malicious package was installed on the host?
+Answer is: pscanner
+
+Task 1-12
+What is the secret code found in the metadata of the suspicious package?
+Answer is: {_tRy_Hack_ME_}
+
 
 
 
