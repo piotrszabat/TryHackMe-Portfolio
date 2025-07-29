@@ -1,3 +1,13 @@
 Answers to Windows Incident Surface room.
 
+Task 1-1
+I have deployed the machine and am ready to hunt!
+No answer needed
 
+Task 2-1
+What tool did the adversary use to delete the logs?
+Answer is: wevtutil
+
+Task 2-2
+What was the registry path used by the adversary to store and steal the login credentials?
+Answer is: HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
