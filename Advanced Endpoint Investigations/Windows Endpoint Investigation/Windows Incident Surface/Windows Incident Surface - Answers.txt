@@ -11,3 +11,18 @@ Answer is: wevtutil
 Task 2-2
 What was the registry path used by the adversary to store and steal the login credentials?
 Answer is: HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+
+=====
+
+Task 3-1
+What is the hostname of the compromised host?
+Answer is: CCTL-WS-018-B21
+
+Task 3-2
+What is the OS version of the compromised host?
+Answer is: 10.0.17763
+
+Task 3-3
+What is the Time ID of the compromised host?
+Answer is: Turkey Standard Time
+
