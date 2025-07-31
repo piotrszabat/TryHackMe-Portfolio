@@ -26,3 +26,17 @@ Task 3-3
 What is the Time ID of the compromised host?
 Answer is: Turkey Standard Time
 
+=====
+
+Task 4-1
+What is the total number of suspicious accounts?
+Answer is: 3
+
+Task 4-2
+What is the security identifier (SID) of the Guest account?
+Answer is: S-1-5-21-1966530601-3185510712-10604624-501
+
+Task 4-3
+When was the last time the Admin account (the one with the deliberate typo) was logged in? Answer format: MM/DD/YY HH:MM:SS XM
+Answer is: 2/28/2024 10:21:10 AM
+
