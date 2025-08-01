@@ -40,3 +40,27 @@ Task 4-3
 When was the last time the Admin account (the one with the deliberate typo) was logged in? Answer format: MM/DD/YY HH:MM:SS XM
 Answer is: 2/28/2024 10:21:10 AM
 
+=====
+
+Task 5-1
+What is the name of the malicious process? Enter your answer in a defanged format.
+Answer is: INITIAL_LANTERN[.]exe
+
+Task 5-2
+What is the directory path where the malicious process is located?
+Answer is: C:\Users\Administrator\AppData\SpcTmp\
+
+Task 5-3
+What is the remote port used by the malicious process?
+Answer is: 8888
+
+Task 5-4
+What is the full path of the suspicious program for AnyDesk? Enter your answer in a defanged format.
+Answer is: D:\AnyDesk[.]exe
+
+Task 5-5
+What port is used by the LMV Co. firewall rules?
+Answer is: 5985
+
+
+
