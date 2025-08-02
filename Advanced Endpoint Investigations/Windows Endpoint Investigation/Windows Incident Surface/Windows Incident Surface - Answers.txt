@@ -62,5 +62,20 @@ Task 5-5
 What port is used by the LMV Co. firewall rules?
 Answer is: 5985
 
+====
+
+Task 6-1
+Which user account will be used to run the AnyDesk application?
+Answer is: Public
+
+Task 6-2
+What is the value data stored in the "Userinit" key? Enter your answer in a defanged format.
+Answer is: C:\Windows\system32\userinit[.]exe, cmd[.]exe /c "start /min netsh[.]exe -c"
+
+Task 6-3
+What is the name of the suspicious DLL linked under the netshell hive key?
+Answer is: .\fwshield.dll
+
+
 
 
