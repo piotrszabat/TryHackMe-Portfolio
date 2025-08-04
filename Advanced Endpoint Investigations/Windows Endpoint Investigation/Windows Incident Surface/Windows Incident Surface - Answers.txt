@@ -100,6 +100,36 @@ Answer is: x3xv5weg[.]exe
 
 =====
 
+Task 8-1
+What is the parent process name of the suspicious executable (INITIAL_LANTERN) process? Enter your answer in a defanged format.
+Answer is: services[.]exe
+
+Task 8-2
+Which user name is used for the SSH connection attempts?
+Answer is: James
+
+Task 8-3
+What is the parent process of the malicious aurora process? Enter your answer in a defanged format.
+Answer is: svchost[.]exe
+
+Task 8-4
+What is the file name located in the default user's temp directory? Enter your answer in a defanged format.
+Answer is: jmp[.]exe
+
+Task 8-5
+What is the name of the potential proxy script located in the suspicious non-default temp folder? Enter your answer in a defanged format.
+Answer is: Invoke-SocksProxy[.]psm1
+
+Task 8-6
+What is the SHA256 value of the potential proxy script located in the suspicious non-default temp folder?
+Answer is: E7697645F36DE5978C1B640B6B3FC819E55B00EE8D9E9798919C11CC7A6FC88B
+
+Task 8-7
+What is the label of the hidden disc volume?
+Answer is: Setups
+
+
+
 
 
 
