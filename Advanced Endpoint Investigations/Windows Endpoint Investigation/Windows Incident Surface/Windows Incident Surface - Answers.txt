@@ -76,6 +76,32 @@ Task 6-3
 What is the name of the suspicious DLL linked under the netshell hive key?
 Answer is: .\fwshield.dll
 
+=====
+
+Task 7-1
+What is the name of the suspicious active service?
+Answer is: LMVCSS
+
+Task 7-2
+What is the SHA256 value of the suspicious active service executable?
+Answer is: E9AA7564B2D1D612479E193A9F8CB70DF9CFBE02A39900EEE22FE266F5320EBF
+
+Task 7-3
+What is the name of the non-running service that caught our attention?
+Answer is: aurora-agent
+
+Task 7-4
+What is the SHA256 value of the non-running service executable?
+Answer is:D5C8BF2D3B56B21639D8152DB277DD714BA1A61BDAF2350BD0FF7E61D2A99003
+
+Task 7-5
+What is the original filename of the non-running service executable? Enter your answer in a defanged format.
+Answer is: x3xv5weg[.]exe
+
+=====
+
+
+
 
 
 
