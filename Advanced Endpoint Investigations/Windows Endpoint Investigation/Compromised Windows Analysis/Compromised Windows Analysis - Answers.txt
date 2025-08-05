@@ -18,4 +18,12 @@ Answer is: Timeline Explorer
 
 =====
 
+Task 4-1
+What is the name of the scheduled task created by the attacker?
+Answer is: CnC
+
+Task 4-2
+What is the IP of the malicious server to which SSH requests are made?
+Answer is: 101.55.125.10
+
 
