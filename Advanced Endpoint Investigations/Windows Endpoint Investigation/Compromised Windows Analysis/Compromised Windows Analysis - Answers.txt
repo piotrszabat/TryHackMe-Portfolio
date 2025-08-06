@@ -38,3 +38,17 @@ Answer is: 2025-03-29 10:26:07
 
 =====
 
+Task 6-1
+What is the name of the malicious executable file?
+Answer is: Cipher.exe
+
+Task 6-2
+How many times was this file executed?
+Answer is: 2
+
+Task 6-3
+When was the last time that this file was executed? Format YYYY-MM-DD HH:MM:SS
+Answer is: 2025-03-29 10:29:12
+
+
+
