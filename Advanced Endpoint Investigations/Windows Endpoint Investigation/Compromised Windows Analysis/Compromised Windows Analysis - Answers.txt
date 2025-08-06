@@ -26,4 +26,14 @@ Task 4-2
 What is the IP of the malicious server to which SSH requests are made?
 Answer is: 101.55.125.10
 
+=====
+
+Task 5-1
+What is the name of the RAR file created during the attack?
+Answer is: Cursed.rar
+
+Task 5-2
+When was the RAR file created in the system? Format YYYY-MM-DD HH:MM:SS
+Answer is: 2025-03-29 10:26:07
+
 
