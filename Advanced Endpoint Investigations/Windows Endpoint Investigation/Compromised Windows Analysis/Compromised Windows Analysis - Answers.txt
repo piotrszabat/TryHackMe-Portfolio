@@ -60,6 +60,17 @@ Task 7-2
 What is the SHA1 hash of this file?
 Answer is: 5b15c9d9ef36cae9f24ce63eebd190ac381bb734
 
+=====
+
+Task 8-1
+When was Defender disabled? Answer in 12 hour clock format. e.g. hours:minutes:seconds AM/PM
+Answer is: 10:25:14 AM
+
+Task 8-2
+What is the IP address of the attacker's system?
+Answer is: 10.11.90.211
+
+
 
 
 
