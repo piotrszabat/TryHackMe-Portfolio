@@ -50,5 +50,17 @@ Task 6-3
 When was the last time that this file was executed? Format YYYY-MM-DD HH:MM:SS
 Answer is: 2025-03-29 10:29:12
 
+=====
+
+Task 7-1
+What is the full path of the malicious file?
+Answer is: c:\users\administrator\desktop\cursed\cipher.exe
+
+Task 7-2
+What is the SHA1 hash of this file?
+Answer is: 5b15c9d9ef36cae9f24ce63eebd190ac381bb734
+
+
+
 
 
