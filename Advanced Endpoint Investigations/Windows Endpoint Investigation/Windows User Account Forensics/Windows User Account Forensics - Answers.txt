@@ -6,4 +6,10 @@ No answer needed
 
 =====
 
+Task 2-1
+What type of accounts are used by the Windows operating system and various apps?
+Answer is: System and Service Accounts
 
+Task 2-2
+What centrally manages local user accounts and domain accounts?
+Answer is: Domain Controller
