@@ -13,3 +13,21 @@ Answer is: System and Service Accounts
 Task 2-2
 What centrally manages local user accounts and domain accounts?
 Answer is: Domain Controller
+
+=====
+
+Task 3-1
+How many users were found using the DSInternals command?
+Answer is: 5
+
+Task 3-2
+What is the value of the "bootKey" variable?
+Answer is: 36c8d26ec0df8b23ce63bcefa6e2d821
+
+Task 3-3
+What is the SID of the domain user, m.ascot?
+Answer is: S-1-5-21-1966530601-3185510712-10604624-1111
+
+
+
+
