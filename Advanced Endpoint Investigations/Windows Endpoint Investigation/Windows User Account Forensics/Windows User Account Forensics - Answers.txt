@@ -28,6 +28,20 @@ Task 3-3
 What is the SID of the domain user, m.ascot?
 Answer is: S-1-5-21-1966530601-3185510712-10604624-1111
 
+=====
+
+Task 4-1
+What is the user name used for the NTLM authentication?
+Answer is: admin
+
+Task 4-2
+What was the Server Challenge sent to the client during the Challenge stage of the NTLM handshake?
+Answer is: 212ba239356b3d82
+
+Task 4-3
+What is the Dns Name of the other result from the the DsGetDomainControllerInfo response?
+Answer is: dcfr.lab.lan
+
 
 
 
