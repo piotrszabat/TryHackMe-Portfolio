@@ -60,6 +60,12 @@ Task 5-4
 What is the IP address of the C2 server the script would exfiltrate to?
 Answer is: 192.0.2.123
 
+=====
+
+Task 6-1
+Users beware!
+No answer needed
+
 
 
 
