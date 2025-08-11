@@ -42,6 +42,26 @@ Task 4-3
 What is the Dns Name of the other result from the the DsGetDomainControllerInfo response?
 Answer is: dcfr.lab.lan
 
+=====
+
+Task 5-1
+What is the name of the user specified as the apply target for this Policy?
+Answer is: Michael Ascot
+
+TAsk 5-2
+Under Computer Configuration > Policies > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection, what is the setting that was enabled?
+Answer is: Turn off real-time protection
+
+Task 5-3
+There is an updated malicious startup PowerShell script. What is the filename of this script? (Without file extension)
+Answer is: superimportant-updated
+
+Task 5-4
+What is the IP address of the C2 server the script would exfiltrate to?
+Answer is: 192.0.2.123
+
+
+
 
 
 
