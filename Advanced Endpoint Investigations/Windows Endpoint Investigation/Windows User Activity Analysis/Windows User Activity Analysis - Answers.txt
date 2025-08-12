@@ -13,6 +13,18 @@ Answer is: 12
 =====
 
 Task 3-1
+Which Hive stores information about installed software?
+Answer is: SOFTWARE
+
+Task 3-2
+What is the current size of the SAM Hive in the attached lab? (In KB)
+Answer is: 128
+
+=====
+
+Task 4-1
+
+
 
 
 
