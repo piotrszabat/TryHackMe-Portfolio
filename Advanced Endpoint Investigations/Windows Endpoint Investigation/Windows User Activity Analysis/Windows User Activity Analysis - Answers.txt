@@ -23,6 +23,25 @@ Answer is: 128
 =====
 
 Task 4-1
+The suspect typed a suspicious path in the Windows Explorer, that points to a tmp directory in C drive. What is the full path?
+Answer is: C:\system\home\tmp
+
+Task 4-2
+In the WordWheelQuery search, what was the latest term searched by the user?
+Answer is: wipe
+
+Task 4-3
+Where was the last text file saved by the suspect?
+Answer is: C:\system\home\tmp\code.txt
+
+Task 4-4
+From the Hacking-tools folder, which suspicious key logging tool was executed 5 times?
+Answer is: keylogger.exe
+
+Task 4-5
+Which Disk Wiping utility was executed on this host?
+Answer is: DiskWipe.exe
+
 
 
 
