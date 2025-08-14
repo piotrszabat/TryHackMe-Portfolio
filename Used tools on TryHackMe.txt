@@ -11,3 +11,4 @@ Tools that i used using TryHackMe website to pracitce my skills.
 10. EzTools
 11. Registry Explorer 
 12. ShellBags Explorer
+13. JumpList Explorer
