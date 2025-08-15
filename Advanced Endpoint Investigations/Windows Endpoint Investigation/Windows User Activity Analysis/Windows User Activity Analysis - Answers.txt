@@ -62,6 +62,21 @@ Task 6-2
 Analyzing the code.lnk file shows that it was accessed from the network shared drive. What is the full path of the network directory?
 Answer is: \\10.10.17.228\Users\Administrator\Documents\secret-documents
 
+=====
+
+Task 7-1
+A text file named code.txt was accessed from a tmp directory. What is the full path of the tmp directory?
+Answer is: C:\system\home\tmp\code.txt
+
+Task 7-2
+What URL was accessed using Internet Explorer?
+Answer is: http://10.10.17.228/
+
+Task 7-3
+When did the user access the "How to Hack.pdf" file?
+Answer is : 2024-03-04 12:28:26
+
+
 
 
 
