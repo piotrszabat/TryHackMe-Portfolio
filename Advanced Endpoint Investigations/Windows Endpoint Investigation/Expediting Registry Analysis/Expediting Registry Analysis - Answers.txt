@@ -6,5 +6,18 @@ No answer needed
 
 =====
 
+Task 2-1
+I have collected registry data from the attached VM, as shown in this task.
+No answer needed
+
+Task 2-2
+When we take a forensic data collection from the disk image of a system, what type of acquisition is it called?
+Answer is: cold acquisition
+
+Task 2-3
+Is speed one of the advantages of collecting registry data from FTK Imager? Y or N?
+Answer is: N
+
+
 
 
