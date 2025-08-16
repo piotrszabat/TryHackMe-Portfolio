@@ -12,3 +12,4 @@ Tools that i used using TryHackMe website to pracitce my skills.
 11. Registry Explorer 
 12. ShellBags Explorer
 13. JumpList Explorer
+14. FTK Image 
