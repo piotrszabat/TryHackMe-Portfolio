@@ -42,5 +42,22 @@ Task 4-3
 What is the LastKnownGood control set of the system?
 Answer is: 2
 
+=====
+
+Task 5-1
+Which account was created last?
+Answer is: suspicious
+
+Task 5-2
+What is the Password Reset Date of this account?
+Answer is: 2024-03-03 11:51:04Z
+
+Task 5-3
+What is the RID of the account 4n6lab?
+Answer is: 1008
+
+Task 5-4
+Which 3 accounts are part of the Administrators group? (Format: account1, account2, account3 in ascending order of RID)
+Answer is: administrator, 4n6lab, suspicious
 
 
