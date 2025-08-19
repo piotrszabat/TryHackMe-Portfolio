@@ -60,4 +60,18 @@ Task 5-4
 Which 3 accounts are part of the Administrators group? (Format: account1, account2, account3 in ascending order of RID)
 Answer is: administrator, 4n6lab, suspicious
 
+=====
+
+Task 6-1
+What is the network's gateway MAC address, which was last connected in 2021?
+Answer is: 0A-41-2A-ED-DB-34
+
+Task 6-2
+When was this network last connected?
+Answer is: 3/17/2021 14:59
+
+Task 6-3
+When was "Network 2" first connected?
+Answer is: 3/17/2021 15:08
+
 
