@@ -92,5 +92,12 @@ Task 7-4
 To which organization is the Windows OS registered?
 Answer is: Amazon.com
 
+=====
+
+Task 8-1
+Yay! I learned a bunch of new ways to perform forensic analysis of registry data!
+No answer needed
+
+
 
 
