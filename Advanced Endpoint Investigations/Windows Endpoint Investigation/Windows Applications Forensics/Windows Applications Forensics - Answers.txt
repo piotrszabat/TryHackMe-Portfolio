@@ -5,3 +5,15 @@ I have successfully started the virtual machine.
 No answer needed
 
 ===== 
+
+Task 2-1
+Who created the malicious scheduled tasks?
+Answer is: mike.myers
+
+Task 2-2
+Based on the ones discovered from the logs, what URL is accessed by this malicious scheduled task? (format: defanged URL)
+Answer is: hxxp[://]hrcbishtek[.]com/a
+
+Task 2-3
+Based on the logs, what is the name of the malicious service?
+Answer is: server power
