@@ -1,3 +1,7 @@
 Answers to Windows Applications Forensics room.
 
+Task 1-1
+I have successfully started the virtual machine.
+No answer needed
 
+===== 
