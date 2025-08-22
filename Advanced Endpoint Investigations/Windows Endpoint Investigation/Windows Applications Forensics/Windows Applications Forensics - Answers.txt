@@ -28,3 +28,14 @@ Task 3-2
 Based on Q1, what time does the second malicious task execute daily? (format: HH:MM, e.g. 18:30)
 Answer is: 17:21
 
+=====
+
+Task 4-1
+Aside from the service determined through logs, what is the full path of the binary executed by the second malicious service?
+Answer is: C:\Windows\Temp\aKzjdD.exe
+
+Task 4-2
+What is the last write time of the second malicious service? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/07/2024 17:53:53
+
+
