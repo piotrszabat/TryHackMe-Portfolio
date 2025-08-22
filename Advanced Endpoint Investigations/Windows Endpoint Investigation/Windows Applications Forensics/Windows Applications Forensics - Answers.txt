@@ -17,3 +17,14 @@ Answer is: hxxp[://]hrcbishtek[.]com/a
 Task 2-3
 Based on the logs, what is the name of the malicious service?
 Answer is: server power
+
+=====
+ 
+Task 3-1
+Aside from the scheduled tasks from Windows Event Logs, what does the second malicious scheduled task execute?
+Answer is: C:\Users\Public\pagefilerpqy.exe
+
+Task 3-2
+Based on Q1, what time does the second malicious task execute daily? (format: HH:MM, e.g. 18:30)
+Answer is: 17:21
+
