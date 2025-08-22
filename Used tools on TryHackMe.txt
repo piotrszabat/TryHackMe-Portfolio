@@ -15,3 +15,5 @@ Tools that i used using TryHackMe website to pracitce my skills.
 14. AccessData FTK Imager 
 15. Gkape 
 16. RegRipper
+17. Registry Editor
+18. Task Manager
