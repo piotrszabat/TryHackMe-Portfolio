@@ -38,4 +38,16 @@ Task 4-2
 What is the last write time of the second malicious service? (format: MM/DD/YYYY HH:MM:SS)
 Answer is: 03/07/2024 17:53:53
 
+=====
+
+Task 5-1
+What is the first URL accessed by the user related to the phishing website? (format: defanged URL)
+Answer is: hxxps[://]login[.]lohelper[.]com/auth/client_id=59bcc3ad677
+
+Task 5-2
+Based on Q1, what time did the user access this URL in the UTC timezone? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/04/2024 20:53:32
+
+
+
 
