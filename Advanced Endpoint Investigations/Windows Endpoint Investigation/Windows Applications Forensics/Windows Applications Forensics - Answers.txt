@@ -48,6 +48,11 @@ Task 5-2
 Based on Q1, what time did the user access this URL in the UTC timezone? (format: MM/DD/YYYY HH:MM:SS)
 Answer is: 03/04/2024 20:53:32
 
+Task 5-3
+Which O365 cookie containing user session information was seen on the phishing website?
+Answer is: ESTSAUTHPERSISTENT
+
+
 
 
 
