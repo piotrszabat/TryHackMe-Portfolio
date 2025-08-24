@@ -58,6 +58,14 @@ Task 6-1
 What URL does the malicious Chrome extension report to? (format: defanged URL)
 Answer is: hxxps[://]kamehasuitens[.]info/track
 
+=====
+
+Task 7-1
+What is the first URL the Microsoft Edge user accessed related to the malicious domain? (format: defanged URL)
+Answer is: hxxps[://]login[.]dxsupport[.]net/mmTQJpka
+
+
+
 
 
 
