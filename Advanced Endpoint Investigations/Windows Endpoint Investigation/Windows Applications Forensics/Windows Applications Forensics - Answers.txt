@@ -52,6 +52,13 @@ Task 5-3
 Which O365 cookie containing user session information was seen on the phishing website?
 Answer is: ESTSAUTHPERSISTENT
 
+=====
+
+Task 6-1
+What URL does the malicious Chrome extension report to? (format: defanged URL)
+Answer is: hxxps[://]kamehasuitens[.]info/track
+
+
 
 
 
