@@ -17,3 +17,5 @@ Tools that i used using TryHackMe website to pracitce my skills.
 16. RegRipper
 17. Registry Editor
 18. Task Manager
+19. CyberChef
+20. DB Browser for SQLite
