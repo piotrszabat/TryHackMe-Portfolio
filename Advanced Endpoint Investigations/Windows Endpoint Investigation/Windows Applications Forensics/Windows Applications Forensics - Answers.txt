@@ -64,6 +64,12 @@ Task 7-1
 What is the first URL the Microsoft Edge user accessed related to the malicious domain? (format: defanged URL)
 Answer is: hxxps[://]login[.]dxsupport[.]net/mmTQJpka
 
+=====
+
+Task 8-1
+What email is used by the phishing email sender?
+Answer is: julianne.westcott@hotmail.com
+
 
 
 
