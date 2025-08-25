@@ -70,6 +70,16 @@ Task 8-1
 What email is used by the phishing email sender?
 Answer is: julianne.westcott@hotmail.com
 
+=====
+
+Task 9-1
+What is the file name of the malicious attachment sent via Microsoft Teams?
+Answer is: system_update.zip
+
+Task 9-2
+What is the URL found inside the malicious attachment? (format: defanged URL)
+Answer is: hxxp[://]cdn[.]nautilusco[.]net/a[.]ps1
+
 
 
 
