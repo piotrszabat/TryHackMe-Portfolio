@@ -1,6 +1,17 @@
 Answers to Windows Network Analysis room.
 
+Task 1-1
+Click me to proceed on to the next task.
+No answer needed
+
+=====
+
+Task 2-1
+What is the full name of the Windows feature that tracks the last 30 to 60 days of system statistics?
+Answer is: System Resource Usage Monitor
 
 
+What is the full path to the directory that Windows will output Firewall logs to?
+Answer is: C:\Windows\System32\LogFiles\Firewall
 
 
