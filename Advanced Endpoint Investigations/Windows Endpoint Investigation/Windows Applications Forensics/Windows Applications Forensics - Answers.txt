@@ -80,6 +80,20 @@ Task 9-2
 What is the URL found inside the malicious attachment? (format: defanged URL)
 Answer is: hxxp[://]cdn[.]nautilusco[.]net/a[.]ps1
 
+=====
+
+Task 10-1
+What is the URL of the unusual SharePoint site synced by the user?
+Answer is: https://swiftspendlogistics.sharepoint.com/sites/ProjectManagement
+
+=====
+
+Task 11-1
+I enjoyed collecting and analysing application artefacts!
+No answer needed
+
+
+
 
 
 
