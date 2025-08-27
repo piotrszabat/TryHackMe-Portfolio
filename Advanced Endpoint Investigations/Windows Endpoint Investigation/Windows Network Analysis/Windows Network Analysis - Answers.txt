@@ -10,8 +10,21 @@ Task 2-1
 What is the full name of the Windows feature that tracks the last 30 to 60 days of system statistics?
 Answer is: System Resource Usage Monitor
 
-
+Task 2-2
 What is the full path to the directory that Windows will output Firewall logs to?
 Answer is: C:\Windows\System32\LogFiles\Firewall
 
+=====
+
+Task 3-1
+What cmdlet can be used to display active TCP connections?
+Answer is: Get-NetTCPConnection
+
+Task 3-2
+What cmdlet can be used to display the DNS cache on the host?
+Answer is: Get-DnsClientCache
+
+Task 3-3
+What command can be used to list all active RDP sessions on the host?
+Answer is: qwinsta
 
