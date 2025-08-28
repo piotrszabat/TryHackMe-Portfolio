@@ -28,3 +28,17 @@ Task 3-3
 What command can be used to list all active RDP sessions on the host?
 Answer is: qwinsta
 
+=====
+
+Task 4-1
+What netstat flag can we use to display the executable responsible for a connection?
+Answer is: -b
+
+Task 4-2
+If we wanted to display all TCP connections and the associated process ID using netstat, what flag would we use?
+Answer is: -o
+
+Task 4-3
+What special character can we use to save the output of netstat to a text file?
+Answer is: >
+
