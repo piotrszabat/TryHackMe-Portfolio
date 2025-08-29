@@ -42,3 +42,27 @@ Task 4-3
 What special character can we use to save the output of netstat to a text file?
 Answer is: >
 
+=====
+
+Task 5-1
+Use the Get-NetTCPConnection PowerShell cmdlet to list the connections currently active.
+A popular port for reverse shells is currently active. What is the port number?
+If nothing sticks out, wait a few minutes and run the command again.
+Answer is: 4444
+
+Task 5-2
+What is the name of the process that is connecting to the C2 server?
+Answer is: pythonw.exe
+
+Task 5-3
+What is the domain that has been added to the workstation's host file?
+Answer is: attackerc2.thm
+
+Task 5-4
+Analyse the SRUM database. There is another process that has sent a large amount of bytes, indicating data exfil. What is the full path to the process (as listed in SRUM)?
+Answer is: \device\harddiskvolume3\program files\updater\exfil.exe
+
+Task 5-5
+Finally, analyse the SMB shares present on the analyst machine. What is the name of the share that stands out?
+Answer is: confidential
+
