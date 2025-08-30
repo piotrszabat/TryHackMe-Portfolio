@@ -1,1 +1,11 @@
 Answers to Logless Hunt room.
+
+Task 1-1
+Let's begin!
+No answer needed
+
+Task 2-1
+After launching the VM, open Event Viewer.
+What is the earliest Event ID you see in the Security logs?
+Answer is: 1102
+
