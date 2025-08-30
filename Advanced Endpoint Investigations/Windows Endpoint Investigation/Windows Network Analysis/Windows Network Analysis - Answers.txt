@@ -66,3 +66,9 @@ Task 5-5
 Finally, analyse the SMB shares present on the analyst machine. What is the name of the share that stands out?
 Answer is: confidential
 
+=====
+
+Task 6-1
+Terminate the machines in both rooms and complete this task when you are finished.
+No answer needed
+
