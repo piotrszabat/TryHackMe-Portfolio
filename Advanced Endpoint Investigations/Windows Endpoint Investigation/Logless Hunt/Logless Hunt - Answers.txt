@@ -4,8 +4,27 @@ Task 1-1
 Let's begin!
 No answer needed
 
+=====
+
 Task 2-1
 After launching the VM, open Event Viewer.
 What is the earliest Event ID you see in the Security logs?
 Answer is: 1102
 
+=====
+
+Task 3-1
+What is the title of the HR01-SRV web app hosted on 80 port?
+Answer is: Salary Raise Approver v0.1
+
+Task 3-2
+Which IP performed an extensive web scan on the HR01-SRV web app?
+Answer is: 10.10.23.190
+
+Task 3-3
+What is the absolute path to the file that the suspicious IP uploaded?
+Answer is: C:\Apache24\htdocs\uploads\search.php
+
+Task 3-4
+Clearly, that's suspicious! What would you call the uploaded malware / backdoor?
+Answer is: Web Shell
