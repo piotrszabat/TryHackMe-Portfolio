@@ -28,3 +28,22 @@ Answer is: C:\Apache24\htdocs\uploads\search.php
 Task 3-4
 Clearly, that's suspicious! What would you call the uploaded malware / backdoor?
 Answer is: Web Shell
+
+=====
+
+Task 4-1
+What was the first command entered by the attacker?
+Answer is: whoami
+
+Task 4-2
+What is the full URL of the file that the attacker attempted to download?
+Answer is: http://10.10.23.190:8080/httpd-proxy.exe
+
+Task 4-3
+What command was run to exclude the file from Windows Defender?
+Answer is: Add-MpPreference -ExclusionPath C:\Apache24
+
+Task 4-4
+Which remote access service was tunnelled using the uploaded binary?
+Answer is: RDP
+
