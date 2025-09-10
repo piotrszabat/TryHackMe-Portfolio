@@ -47,3 +47,25 @@ Task 4-4
 Which remote access service was tunnelled using the uploaded binary?
 Answer is: RDP
 
+=====
+Task 5-1
+What is the timestamp of the first suspicious RDP login?
+(format: 2025-01-05 15:30:45)
+Answer is: 2025-01-23 17:00:12
+
+Task 5-2
+What user did the attacker breach?
+(format: HOSTNAME\USER)
+Answer is: HR01-SRV\Administrator
+
+Task 5-3
+What IP is shown as the source of the RDP login?
+Answer is: 10.10.23.190
+
+Task 5-4
+What is the timestamp when the attacker disconnected from RDP?
+(format: 2025-01-05 15:30:45)
+Answer is: 2025-01-23 17:16:46
+
+
+
