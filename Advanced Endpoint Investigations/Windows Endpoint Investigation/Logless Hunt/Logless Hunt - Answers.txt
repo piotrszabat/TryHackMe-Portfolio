@@ -99,3 +99,8 @@ Answer is: HackTool:Win32/Mimikatz!pz
 Task 7-3
 What is the file name of the downloaded Mimikatz executable?
 Answer is: mimi.exe
+
+Task 7-4
+Finally, which Mimikatz command was used to extract hashes from LSASS memory?
+Answer is: lsadump::lsa /inject
+
