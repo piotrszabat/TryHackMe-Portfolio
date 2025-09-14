@@ -20,3 +20,18 @@ Task 1-5
 Aside from the registry implant, another persistent implant is stored within the machine. When did the attacker implant the alternative backdoor? (format: MM/DD/YYYY HH:MM:SS)
 Answer is: 03/24/2024 20:04:05
 
+=====
+
+Task 2-1
+When did the attacker send the malicious email? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/24/2024 19:06:27
+
+Task 2-2
+When did the victim open the malicious payload? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/24/2024 19:07:46
+
+Task 2-3
+When was the malicious persistent implant created? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/24/2024 19:16:23
+
+
