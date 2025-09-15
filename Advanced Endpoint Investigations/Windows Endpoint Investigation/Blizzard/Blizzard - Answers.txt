@@ -42,6 +42,12 @@ Task 2-5
 What file did the attacker leverage to gain access to the database server? Provide the password found in the file.
 Answer is: db@dm1nS3cur3Pass!
 
+=====
+
+Task 3-1
+When did the victim receive the malicious phishing message? (format: MM/DD/YYYY HH:MM:SS)
+Answer is: 03/24/2024 18:36:34
+
 
 
 
