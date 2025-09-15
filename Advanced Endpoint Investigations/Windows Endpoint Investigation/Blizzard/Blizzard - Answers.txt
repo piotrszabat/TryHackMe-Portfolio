@@ -34,4 +34,14 @@ Task 2-3
 When was the malicious persistent implant created? (format: MM/DD/YYYY HH:MM:SS)
 Answer is: 03/24/2024 19:16:23
 
+Task 2-4
+What is the domain accessed by the malicious implant? (format: defanged)
+Answer is: advancedsolutions[.]net
+
+Task 2-5
+What file did the attacker leverage to gain access to the database server? Provide the password found in the file.
+Answer is: db@dm1nS3cur3Pass!
+
+
+
 
