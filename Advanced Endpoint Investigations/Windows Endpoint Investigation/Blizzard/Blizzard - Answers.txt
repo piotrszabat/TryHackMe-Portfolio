@@ -48,6 +48,19 @@ Task 3-1
 When did the victim receive the malicious phishing message? (format: MM/DD/YYYY HH:MM:SS)
 Answer is: 03/24/2024 18:36:34
 
+Task 3-2
+What is the display name of the attacker?
+Answer is: Microsoft Identity Provider
+
+Task 3-3
+What is the URL of the malicious phishing link? (format: defanged)
+Answer is: hxxps[://]login[.]sourcesecured[.]com/support/id/XkSkj321
+
+Task 3-4
+What is the title of the phishing website?
+Answer is: Sign in to your account
+
+
 
 
 
