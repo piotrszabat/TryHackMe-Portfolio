@@ -60,6 +60,11 @@ Task 3-4
 What is the title of the phishing website?
 Answer is: Sign in to your account
 
+Task 3-5
+When did the victim first access the phishing website? (format: MM/DD/YYYY HH:MM:SS in UTC)
+Answer is: 03/24/2024 18:38:29
+
+
 
 
 
