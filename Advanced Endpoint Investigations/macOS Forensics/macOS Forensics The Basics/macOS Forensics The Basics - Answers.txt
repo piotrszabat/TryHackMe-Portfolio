@@ -21,3 +21,7 @@ Task 3-1
 What is the latest date that the HFS+ file system supports? Format DD/MM/YYYY
 Answer is: 06/02/2040
 
+Task 3-2
+In the HFS+ file system, which file contains a list of all the files and directories present in the file system?
+Answer is: Catalog file
+
