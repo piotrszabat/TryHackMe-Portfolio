@@ -25,3 +25,9 @@ Task 3-2
 In the HFS+ file system, which file contains a list of all the files and directories present in the file system?
 Answer is: Catalog file
 
+=====
+
+Task 4-1
+In macOS, which command can be used to list all available APFS volumes?
+Answer is: diskutil apfs list
+
