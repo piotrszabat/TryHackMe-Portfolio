@@ -41,5 +41,13 @@ Task 5-2
 Which domain is the most forensically important domain from a user activity point of view?
 Answer is: User
 
+=====
+
+Task 6-1
+Which of the file types discussed above are similar to device drivers in Windows?
+Answer is: .kext files
+
+
+
 
 
