@@ -31,3 +31,15 @@ Task 4-1
 In macOS, which command can be used to list all available APFS volumes?
 Answer is: diskutil apfs list
 
+=====
+
+Task 5-1
+Files in which domain can't be modified even by using sudo privileges?
+Answer is: System
+
+Task 5-2
+Which domain is the most forensically important domain from a user activity point of view?
+Answer is: User
+
+
+
