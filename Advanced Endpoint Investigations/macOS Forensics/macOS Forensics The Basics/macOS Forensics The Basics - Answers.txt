@@ -47,6 +47,13 @@ Task 6-1
 Which of the file types discussed above are similar to device drivers in Windows?
 Answer is: .kext files
 
+=====
+
+Task 7-1
+Which command can be used to disable SIP?
+Answer is: csrutil disable
+
+
 
 
 
