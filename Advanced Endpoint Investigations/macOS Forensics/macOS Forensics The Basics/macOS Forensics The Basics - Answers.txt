@@ -53,6 +53,21 @@ Task 7-1
 Which command can be used to disable SIP?
 Answer is: csrutil disable
 
+=====
+
+Task 8-1
+In the disk image provided in the attached VM, what is the UUID of the volume containing user data?
+Answer is: 84E5F2BD-503F-4E3A-8105-EEBEBC1925B4
+
+Task 8-2
+What is the name of the user who used this Mac device?
+Answer is: thm
+
+Task 8-3
+There is a text file in the User directory of the above-mentioned user. What is the name of this file?
+Answer is: creds.txt
+
+
 
 
 
