@@ -71,6 +71,12 @@ Task 8-4
 It looks like the file contains credentials for different users and their passwords. What is the password of the user we identified above?
 Answer is: 12345
 
+=====
+
+Task 9-1
+Hurray! I am ready to perform forensics on macOS devices!
+No answer needed
+
 
 
 
