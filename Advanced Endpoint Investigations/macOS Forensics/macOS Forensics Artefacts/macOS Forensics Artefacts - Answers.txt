@@ -1,0 +1,3 @@
+Answers to macOS Forensics Artefacts room.
+
+Task 1-1
