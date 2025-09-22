@@ -1,3 +1,5 @@
 Answers to macOS Forensics Artefacts room.
 
 Task 1-1
+What command can be used to mount the image named mac-disk.img to the directory ~/mac in the attached VM, making sure the Data volume is mounted?
+Answer is: apfs-fuse -v 4 mac-disk.img ~/mac
