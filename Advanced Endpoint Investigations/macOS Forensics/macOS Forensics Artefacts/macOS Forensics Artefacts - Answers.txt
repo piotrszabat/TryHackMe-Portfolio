@@ -3,3 +3,23 @@ Answers to macOS Forensics Artefacts room.
 Task 1-1
 What command can be used to mount the image named mac-disk.img to the directory ~/mac in the attached VM, making sure the Data volume is mounted?
 Answer is: apfs-fuse -v 4 mac-disk.img ~/mac
+
+=====
+
+Task 2-1
+In the attached VM, which utility can we use to parse plist files?
+Answer is: plistutil
+
+=====
+
+Task 3-1
+When was the OS installed on the disk image present in the attached VM? Write your answer in the format: YYYY-MM-DD hh:mm:ss 
+Answer is: 2024-12-08 17:42:28
+
+Task 3-2
+What is the country code for this machine?
+Answer is: AE
+
+Task 3-3
+When was the last time this machine booted up? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss
+Answer is: 2025-01-19 15:47:05
