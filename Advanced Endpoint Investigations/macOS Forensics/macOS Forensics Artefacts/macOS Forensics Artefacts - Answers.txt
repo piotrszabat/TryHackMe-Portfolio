@@ -23,3 +23,17 @@ Answer is: AE
 Task 3-3
 When was the last time this machine booted up? Write your answer as GMT in the format: YYYY-MM-DD hh:mm:ss
 Answer is: 2025-01-19 15:47:05
+
+=====
+
+Task 4-1
+What is the name of the machine's built-in network interface?
+Answer is: en0
+
+Task 4-2
+What is the IP address of the router this machine was last connected to?
+Answer is: 192.168.64.1
+
+=====
+
+
