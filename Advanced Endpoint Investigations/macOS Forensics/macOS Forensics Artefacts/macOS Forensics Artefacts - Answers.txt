@@ -36,4 +36,15 @@ Answer is: 192.168.64.1
 
 =====
 
+Task 5-1
+What is the name of the last logged in user?
+Answer is: thm
+
+Task 5-2
+What is the password hint for the user?
+Answer is: count to 5
+
+Task 5-3
+When was the last time a user logged out of the machine? Format MMM DD hh:mm:ss
+Answer is: Jan 19 07:52:43
 
