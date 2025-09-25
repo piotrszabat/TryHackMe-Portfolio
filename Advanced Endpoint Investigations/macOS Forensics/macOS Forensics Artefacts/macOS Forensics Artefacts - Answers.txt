@@ -48,3 +48,23 @@ Task 5-3
 When was the last time a user logged out of the machine? Format MMM DD hh:mm:ss
 Answer is: Jan 19 07:52:43
 
+=====
+
+Task 6-1
+What was the last command executed by the user on the machine?
+Answer is: vim creds.txt
+
+Task 6-2
+What is the GUID of the terminal session in which this command was executed?
+Answer is: 452AEA93-AEE7-420B-871E-C57053E15DD0
+
+Task 6-3
+When was the last time the user closed the terminal? Format YYYY-MM-DD hh:mm:ss
+Answer is: 2025-01-19 15:52:33
+
+Task 6-4
+For how many seconds was the terminal in focus during this session?
+Answer is: 176
+
+
+
