@@ -4,3 +4,12 @@ Task 1-1
 Let's see what application artefacts are present in macOS!
 No answer needed
 
+=====
+
+Task 2-1
+When was Microsoft 365 and Office installed on the disk image in the attached VM? Format in GMT YYYY-MM-DD hh:mm:ss
+Answer is: 2025-04-26 06:41:43
+
+Task 2-2
+What is the name of the package used to install Microsoft Word?
+Answer is: Microsoft_Word_Internal.pkg
