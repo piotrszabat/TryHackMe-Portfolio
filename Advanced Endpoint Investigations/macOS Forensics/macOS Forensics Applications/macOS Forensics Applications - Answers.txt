@@ -1,2 +1,6 @@
 Answers to macOS Forensics Applications room.
 
+Task 1-1
+Let's see what application artefacts are present in macOS!
+No answer needed
+
