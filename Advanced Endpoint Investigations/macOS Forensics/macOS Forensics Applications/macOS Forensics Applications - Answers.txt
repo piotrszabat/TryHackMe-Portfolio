@@ -13,3 +13,9 @@ Answer is: 2025-04-26 06:41:43
 Task 2-2
 What is the name of the package used to install Microsoft Word?
 Answer is: Microsoft_Word_Internal.pkg
+
+=====
+
+Task 3-1
+What arguments does the Microsoft update agent launch with? Format "Argument 1", "Argument 2"
+Answer is: "/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft Update Assistant.app/Contents/MacOS/Microsoft Update Assistant", "--launchByAgent"
