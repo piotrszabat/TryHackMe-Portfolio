@@ -26,3 +26,22 @@ Task 4-1
 Which application has Full Disk Access permissions?
 Answer is: com.apple.Terminal
 
+=====
+
+Task 5-1
+What is the email address of the user using this machine?
+Answer is: thmguy535@gmail.com
+
+Task 5-2
+A call was made using FaceTime on 2025-04-26 05:40:04. Was this call answered? Y/N
+Answer is: N
+
+Task 5-3
+The user received a message on 2025-04-26 05:38:20. This message contained an image as an attachment. What animal is present in that image?
+Answer is: Dog
+
+Task 5-4
+On what date and time was the previous message read? Format YYYY-MM-DD hh:mm:ss
+Answer is: 2025-04-26 05:38:23
+
+
