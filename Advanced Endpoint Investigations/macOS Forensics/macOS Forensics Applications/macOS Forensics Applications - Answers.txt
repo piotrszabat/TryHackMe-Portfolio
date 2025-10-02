@@ -77,6 +77,11 @@ Answer is: /Users/umair-thm/Downloads/Report-final-updated.pdf
 =====
 
 Task 7-1
+The user seems to be a fan of TryHackMe. What is the URL of the THM room the user visited using Safari?
+Answer is: https://tryhackme.com/room/macosforensicsartefacts
 
+=====
+
+Task 8-1
 
 
