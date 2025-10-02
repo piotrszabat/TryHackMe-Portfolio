@@ -83,5 +83,11 @@ Answer is: https://tryhackme.com/room/macosforensicsartefacts
 =====
 
 Task 8-1
+When using APOLLO queries to parse passes, to what should we change the field PAYMENT_TRANSACTION.PASS_PID on newer macOS versions?
+Answer is: PAYMENT_TRANSACTION.PID
 
+=====
 
+Task 9-1
+I am confident I can forensicate a Mac now and am ready for a challenge!
+No answer needed
