@@ -44,4 +44,39 @@ Task 5-4
 On what date and time was the previous message read? Format YYYY-MM-DD hh:mm:ss
 Answer is: 2025-04-26 05:38:23
 
+=====
+
+Task 6-1
+The user received a calendar invite in the mail from someone. What date is the calendar invite for? Format YYYY-MM-DD hh:mm:ss
+Answer is: 2025-04-27 11:00:00
+
+Task 6-2
+What was the timezone of the sender of the email invite? Format: GMT+XX:XX
+Answer is: GMT+03:00
+
+Task 6-3
+The user's calendar has another entry named "Jungle cruise". When is this event going to start? Format in GMT YYYY-MM-DD hh:mm:ss
+Answer is: 2025-04-25 16:00:00
+
+Task 6-4
+The user saved two notes. Both have the same title. What is the title?
+Answer is: Aquickbrownfoxjumpedoverthelazydog
+
+Task 6-5
+One of the notes has an attachment we already viewed while analysing iMessage. What animal is present in the other attachment?
+Answer is: Giraffe
+
+Task 6-6
+The user has saved a reminder that has not been completed yet. What is the due date of this reminder? Format in GMT YYYY-MM-DD hh:mm:ss
+Answer is: 2025-04-26 21:00:00
+
+Task 6-7
+What is the complete path of the last file opened using Microsoft Word?
+Answer is: /Users/umair-thm/Downloads/Report-final-updated.pdf
+
+=====
+
+Task 7-1
+
+
 
