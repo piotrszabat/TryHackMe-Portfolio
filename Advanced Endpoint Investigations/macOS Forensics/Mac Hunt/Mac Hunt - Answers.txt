@@ -1,3 +1,12 @@
 Answers to Mac Hunt room.
 
 Task 1-1
+What is the name of the most recently accessed folder by the user?
+Answer is: Downloads
+
+Task 1-2
+Which social platform did the attacker use to deliver the document?
+Answer is: Linkedin
+
+Task 1-3
+What link did the attacker craft for the victim to download the MeetMeLive application?
