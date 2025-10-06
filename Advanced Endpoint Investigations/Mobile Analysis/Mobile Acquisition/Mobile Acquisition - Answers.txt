@@ -3,3 +3,13 @@ Answers to Mobile Acquisition room.
 Task 1-1
 I'm ready to get started!
 No answer needed
+
+=====
+
+Task 2-1
+In what country was it where there is a famous example of mobile devices being used within investigations?
+Answer is: South Africa
+
+Task 2-2
+What is the technical term for a device that has become the initial access method of an attacker?
+Answer is: Entrypoint
