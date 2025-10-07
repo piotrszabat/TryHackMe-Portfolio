@@ -24,4 +24,16 @@ Task 3-2
 Are encryption keys stored in software or hardware?
 Answer is: hardware
 
+=====
+
+Task 4-1
+What app store was found to have malicious applications available to users?
+Answer is: Google Play
+
+Task 4-2
+What is the name of the sophisticated malware that used a combination of "one click" and "zero click" attacks?
+Answer is: Pegasus
+
+
+
 
