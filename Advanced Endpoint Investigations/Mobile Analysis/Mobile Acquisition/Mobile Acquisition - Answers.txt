@@ -13,3 +13,15 @@ Answer is: South Africa
 Task 2-2
 What is the technical term for a device that has become the initial access method of an attacker?
 Answer is: Entrypoint
+
+=====
+
+Task 3-1
+Which manufacturer protection prevents untrusted code from loading during boot?
+Answer is: Secure boot process
+
+Task 3-2
+Are encryption keys stored in software or hardware?
+Answer is: hardware
+
+
