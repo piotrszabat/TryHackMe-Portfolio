@@ -52,6 +52,16 @@ Task 5-4
 What is the name of the tool that can be used to perform a backup of an Android, via the CLI?
 Answer is: ADB
 
+=====
+
+Task 6-1
+What is the name of the technique that boots the device into a temporary Operating System, often bypassing security mechanisms?
+Answer is: Custom Boot Loading
+
+Task 6-2
+What is the name of the technique that exploits a known vulnerability within the device? Granting it full or "root" access?
+Answer is: Jailbreaking
+
 
 
 
