@@ -34,6 +34,25 @@ Task 4-2
 What is the name of the sophisticated malware that used a combination of "one click" and "zero click" attacks?
 Answer is: Pegasus
 
+=====
+
+Task 5-1
+If I wanted to recover deleted data, what acquisition method would I try?
+Answer is: Physical
+
+Task 5-2
+Which acquisition method involves using features of the Operating System to extract data?
+Answer is: Logical Acquisition
+
+Task 5-3
+What is the name of the tool that can be used to perform a backup of an Iphone, via the CLI?
+Answer is: idevicebackup2
+
+Task 5-4
+What is the name of the tool that can be used to perform a backup of an Android, via the CLI?
+Answer is: ADB
+
+
 
 
 
