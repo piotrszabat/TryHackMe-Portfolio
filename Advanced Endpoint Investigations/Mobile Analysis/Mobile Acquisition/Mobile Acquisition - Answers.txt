@@ -62,6 +62,12 @@ Task 6-2
 What is the name of the technique that exploits a known vulnerability within the device? Granting it full or "root" access?
 Answer is: Jailbreaking
 
+=====
+
+Task 7-1
+What is the flag displayed once the capture is complete?
+Answer is: THM{MOBILE_ACQUISITION}
+
 
 
 
