@@ -68,6 +68,12 @@ Task 7-1
 What is the flag displayed once the capture is complete?
 Answer is: THM{MOBILE_ACQUISITION}
 
+=====
+
+Task 8-1
+Proceed through the rest of the module to learn about iOS and Android analysis!
+No answer needed
+
 
 
 
