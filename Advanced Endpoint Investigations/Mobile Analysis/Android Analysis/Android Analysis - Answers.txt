@@ -10,3 +10,11 @@ Task 2-1
 Connect with the lab.
 No answer needed
 
+=====
+
+Task 3-1
+Navigate the directories in FTK Imager. Examine the build.prop file found in the system folder. What is the device's serial number?
+Answer is: ABC123456789
+
+
+
