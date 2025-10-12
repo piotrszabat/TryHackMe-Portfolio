@@ -16,5 +16,11 @@ Task 3-1
 Navigate the directories in FTK Imager. Examine the build.prop file found in the system folder. What is the device's serial number?
 Answer is: ABC123456789
 
+=====
+
+Task 4-1
+Examine the artifact containing information about the device's installed apps. What is the last package installed on this device?
+Answer is: com.sneakcam.capture
+
 
 
