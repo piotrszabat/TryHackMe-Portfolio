@@ -28,4 +28,24 @@ Task 5-1
 Continue to the next task.
 No answer needed
 
+=====
 
+Task 6-1
+What is the flag hidden inside SMS? 
+Answer is: FLAG{MSG_HIDDEN_INTENT}
+
+Task 6-2
+In the call logs, which number has the longest call duration?
+Answer is: +14155550011
+
+Task 6-3
+What is the second-to-last suspicious contact name in the list?
+Answer is: Encrypted User
+
+Task 6-4
+Most Chrome searches indicate that the user was looking for sites to upload data. What is the last URL found in the list for a similar purpose?
+Answer is: https://easyupload.io
+
+Task 6-5
+What is the name of the Bluetooth device found in the configuration?
+Answer is: Pixel_6_User
