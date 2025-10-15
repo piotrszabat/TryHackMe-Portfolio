@@ -49,3 +49,22 @@ Answer is: https://easyupload.io
 Task 6-5
 What is the name of the Bluetooth device found in the configuration?
 Answer is: Pixel_6_User
+
+=====
+
+Task 7-1
+What is the name of the package found that could be used for the data exfiltration?
+Answer is: com.data.exfiltool
+
+Task 7-2
+One of the MMS message indicates the website used to send the sensitive file? What is the name of that site?
+Answer is: MediaFire
+
+Task 7-3
+In the contacts, what is the email address associated with the suspicious user named "Encrypted User"?
+Answer is: ghost123@tutanota.com
+
+Task 7-4
+A sensitive PDF document was found on the device. Examine the document in the downloads folder. What is the flag hidden inside it?
+Answer is: FLAG{INSIDER_ACCESS_42X9}
+
