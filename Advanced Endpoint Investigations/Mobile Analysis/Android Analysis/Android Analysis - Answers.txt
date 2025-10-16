@@ -68,3 +68,12 @@ Task 7-4
 A sensitive PDF document was found on the device. Examine the document in the downloads folder. What is the flag hidden inside it?
 Answer is: FLAG{INSIDER_ACCESS_42X9}
 
+=====
+
+Task 8-1
+Continue to the next task.
+No answer needed
+
+
+
+
