@@ -3,3 +3,13 @@ Answers to iOS Analysis room.
 Task 1-1
 Complete me before proceeding onto the next task!
 No answer needed
+
+=====
+
+Task 2-1
+What is the name of a type of certificate that is used when an iPhone and a device pair together?
+Answer is: Trust Certificate
+
+Task 2-2
+What is the expiry timer on these certificates?
+Answer is: 30 Days
