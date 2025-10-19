@@ -13,3 +13,18 @@ Answer is: Trust Certificate
 Task 2-2
 What is the expiry timer on these certificates?
 Answer is: 30 Days
+
+=====
+
+Task 3-1
+What is the name of the Apple feature that allows a device to be remotely wiped?
+Answer is: Find My
+
+Task 3-2
+What "type" of backup would we perform if we wanted to backup the entire device?
+Answer is: Encrypted
+
+Task 3-3
+What is the name of an important piece of equipment that can block all signals, preventing the device from being remotely wiped?
+Answer is: Faraday Bag
+
