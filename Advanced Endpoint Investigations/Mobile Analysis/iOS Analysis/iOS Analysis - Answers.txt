@@ -28,3 +28,14 @@ Task 3-3
 What is the name of an important piece of equipment that can block all signals, preventing the device from being remotely wiped?
 Answer is: Faraday Bag
 
+=====
+
+Task 4-1
+After March 2017, what filesystem do all iPhones use?
+Answer is: APFS
+
+Task 4-2
+What is the name of the "domain" that stores all files relating to the operating system?
+Answer is: System
+
+
