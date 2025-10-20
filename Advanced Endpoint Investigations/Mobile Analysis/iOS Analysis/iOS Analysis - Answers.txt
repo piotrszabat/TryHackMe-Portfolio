@@ -38,4 +38,16 @@ Task 4-2
 What is the name of the "domain" that stores all files relating to the operating system?
 Answer is: System
 
+=====
+
+Task 5-1
+In what directory of a backup is the Address Book (contacts) stored?
+Answer is: /HomeDomain/Library/AddressBook
+
+Task 5-2
+In what directory of the iPhone are passwords and certificates stored? This is known as the Keychain.
+Answer is: /var/keychains
+
+
+
 
