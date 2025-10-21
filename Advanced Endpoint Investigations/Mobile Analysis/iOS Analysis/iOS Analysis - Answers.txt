@@ -48,6 +48,17 @@ Task 5-2
 In what directory of the iPhone are passwords and certificates stored? This is known as the Keychain.
 Answer is: /var/keychains
 
+=====
+
+Task 6-1
+What is the name of the cross-platform toolkit that can interact with iOS devices? This is a CLI tool.
+Answer is: libimobiledevice
+
+Task 6-2
+If we wanted to do a full iPhone backup using the aforementioned tool, with the directory being "backup", what would our command look like?
+Answer is: idevicebackup2 backup --full ./backup
+
+
 
 
 
