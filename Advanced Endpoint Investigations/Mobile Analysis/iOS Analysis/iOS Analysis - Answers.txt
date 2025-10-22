@@ -58,6 +58,24 @@ Task 6-2
 If we wanted to do a full iPhone backup using the aforementioned tool, with the directory being "backup", what would our command look like?
 Answer is: idevicebackup2 backup --full ./backup
 
+=====
+
+Task 7-1
+Investigate the evidence presented to you on the desktop of the analyst machine.
+No answer needed
+
+Task 7-2
+What is the name (SSID) of the Wi-Fi network the iPhone connected to?
+Answer is: OneMinuteStaff
+
+Task 7-3
+What are the saved contact details for the competitor? 
+Answer is: Wayne,Garcey
+
+Task 7-4
+On what day was the exchange of information to take place?
+Answer is: 30/03/2024
+
 
 
 
