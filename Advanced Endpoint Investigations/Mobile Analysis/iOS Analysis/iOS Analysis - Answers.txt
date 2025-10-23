@@ -76,6 +76,17 @@ Task 7-4
 On what day was the exchange of information to take place?
 Answer is: 30/03/2024
 
+=====
+
+Task 8-1
+Terminate the machine that you deployed in this room.
+No answer needed
+
+Task 8-2
+Let us know what you thought this room on either our X (Twitter), Reddit or Discord.
+No answer needed
+
+
 
 
 
