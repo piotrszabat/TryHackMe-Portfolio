@@ -4,3 +4,22 @@ Task 1-1
 Click to continue.
 No answer needed
 
+=====
+
+Task 2-1
+What type of memory is prioritized because its data disappears after shutdown?
+Answer is: RAM
+
+Task 2-2
+What is the slowest component in the memory hierarchy?
+Answer is: disk
+
+Task 2-3
+Which memory region typically contains dynamically allocated data like encryption keys?
+Answer is: heap
+
+Task 2-4
+What disk-based area temporarily stores RAM data when memory is full?
+Answer is: swap
+
+
