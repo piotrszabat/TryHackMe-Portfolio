@@ -72,6 +72,11 @@ Task 5-1
 What is the value of the flag?
 Answer is: THM{m3mory_analyst_g00d_job}
 
+=====
+
+Task 6-1
+Click to complete the room.
+No answer needed
 
 
 
