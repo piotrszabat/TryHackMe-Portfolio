@@ -44,4 +44,9 @@ Task 3-5
 What anti-forensics technique hides processes by altering kernel structures?
 Answer is: DKOM
 
+=====
+
+Task 4-1
+
+
 
