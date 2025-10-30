@@ -5,3 +5,9 @@ Are you ready to capture memory?
 No answer needed
 
 Task 2-1
+What is the file name that contains the memory of a hibernated Windows system? The answer is in the format: filename.extension
+Answer is: hiberfil.sys
+
+Task 2-2
+Which tool can you use to obtain a process memory dump on a linux host?
+Answer is: gcore
