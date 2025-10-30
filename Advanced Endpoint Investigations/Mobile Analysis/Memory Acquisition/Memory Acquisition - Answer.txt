@@ -11,3 +11,18 @@ Answer is: hiberfil.sys
 Task 2-2
 Which tool can you use to obtain a process memory dump on a linux host?
 Answer is: gcore
+
+=====
+
+Task 3-1
+Start notepad.exe on the VM and use the procdump64.exe tool to write a 'triage' dump file of the process. Ensure that the dump file's name is formatted like PROCESSNAME_PID_YYMMDD_HHMMSS.dmp. Enter the complete command below. Note: Use PowerShell so to syntax is correct. No need to include the -accepteula flag
+Answer is: .\procdump64.exe -mt notepad.exe PROCESSNAME_PID_YYMMDD_HHMMSS.dmp
+
+Task 3-2
+Which two tools can you use to extract or dump memory artifacts of the lsass.exe process? Enter the answers in alphabetic order and separated by a comma. For example: volatility,procmon.exe
+Answer is: mimikatz,procdump64.exe
+
+Task 3-3
+Before moving on to the next task, power off the VM.
+No answer needed
+
