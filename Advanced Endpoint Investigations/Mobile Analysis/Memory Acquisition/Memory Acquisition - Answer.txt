@@ -36,4 +36,7 @@ Task 4-2
 LiME includes a parameter to create a hash immediately after capturing the memory. Modify the following command and ensure a MD5 hash is calculated: sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lime"
 Answer is: sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lime digest=md5"
 
+=====
+
+5-1
 
