@@ -56,5 +56,12 @@ Task 6-2
 A threat actor shuts down the target system after successfully exfiltrating data. What term can we use to categorize this action?
 Answer is: anti-forensic techniques
 
+=====
+
+Task 7-1
+Ready to apply your new skills?
+No answer needed
+
+
 
 
