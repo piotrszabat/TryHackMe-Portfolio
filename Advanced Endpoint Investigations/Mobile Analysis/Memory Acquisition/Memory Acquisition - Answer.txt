@@ -38,5 +38,12 @@ Answer is: sudo insmod lime-6.8.0-1027-aws.ko "path=/tmp/memdump.lime format=lim
 
 =====
 
-5-1
+Task 5-1
+What is the name of the command line utility you use to take a memory dump on the VirtualBox hypervisor? Use the format filename.extension for answering.
+Answer is: vboxmanage.exe
+
+Task 5-2
+Which command do you use to create a snapshot in Hyper-V?
+Answer is: CheckPoint-VM
+
 
