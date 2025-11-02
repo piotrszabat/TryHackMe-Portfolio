@@ -46,4 +46,15 @@ Task 5-2
 Which command do you use to create a snapshot in Hyper-V?
 Answer is: CheckPoint-VM
 
+=====
+
+Task 6-1
+What process describes keeping track of all hosts and their information?
+Answer is: Asset Management
+
+Task 6-2
+A threat actor shuts down the target system after successfully exfiltrating data. What term can we use to categorize this action?
+Answer is: anti-forensic techniques
+
+
 
