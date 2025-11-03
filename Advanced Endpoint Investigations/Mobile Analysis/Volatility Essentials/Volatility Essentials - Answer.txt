@@ -1,3 +1,12 @@
 Answers to Volatility Essentials room.
 
 Task 1-1
+Ready to learn about Volatility and memory analysis.
+No answer needed
+
+Task 2-1
+Read the above and navigate to the Volatility directory.
+No answer needed
+
+
+
