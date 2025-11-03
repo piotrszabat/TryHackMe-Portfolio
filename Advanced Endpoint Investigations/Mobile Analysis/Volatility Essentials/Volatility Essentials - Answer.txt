@@ -4,9 +4,20 @@ Task 1-1
 Ready to learn about Volatility and memory analysis.
 No answer needed
 
+=====
+
 Task 2-1
 Read the above and navigate to the Volatility directory.
 No answer needed
 
+=====
+
+Task 3-1
+What is the build version of the host machine in Case 001?
+Answer is: 2600.xpsp.080413-2111
+
+Task 3-2
+At what time was the memory file acquired in Case 001?
+Answer is: 2012-07-22 02:45:08
 
 
