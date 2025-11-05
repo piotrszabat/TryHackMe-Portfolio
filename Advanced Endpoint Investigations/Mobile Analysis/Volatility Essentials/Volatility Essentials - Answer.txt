@@ -20,4 +20,34 @@ Task 3-2
 At what time was the memory file acquired in Case 001?
 Answer is: 2012-07-22 02:45:08
 
+=====
 
+Task 4-1
+What is the absolute path to the active Adobe process?
+Answer is: C:\Program Files\Adobe\Reader 9.0\Reader\Reader_sl.exe
+
+Task 4-2
+What is the parent process of this process in Case 001?
+Answer is: explorer.exe
+
+Task 4-3
+What is the PID of the parent process?
+Answer is: 1484
+
+Task 4-4
+How many DLL files are used by the Adobe process that are outside the system32 directory?
+Answer is: 3
+
+Task 4-5
+What is the name of the one KeyedEvent associated with the process's handles?
+Answer is: CritSecOutOfMemoryEvent
+
+=====
+
+Task 5-1
+What processes in the Case 001 memory file contain a header that points to a Windows executable file? (Answer: process1,process2)
+Answer is: explorer.exe,reader_sl.exe
+
+=====
+
+Task 6-1
