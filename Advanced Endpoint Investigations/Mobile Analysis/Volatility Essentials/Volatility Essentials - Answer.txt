@@ -51,3 +51,6 @@ Answer is: explorer.exe,reader_sl.exe
 =====
 
 Task 6-1
+What is the address for the NtCreateFile system call?
+0x8056e27c
+
