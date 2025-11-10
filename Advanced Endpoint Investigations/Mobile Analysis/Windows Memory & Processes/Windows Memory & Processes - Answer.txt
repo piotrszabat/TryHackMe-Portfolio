@@ -1,3 +1,10 @@
 Answers to Windows Memory & Processes room.
 
 Task 1-1
+Ready to start analyzing your first memory dump?
+No answer needed
+
+Task 2-1
+I went through the case details and am ready to find out more.
+No answer needed
+
