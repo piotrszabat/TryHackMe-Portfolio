@@ -67,3 +67,10 @@ Answer is: C:\Intel\ivecuqmanpnirkt615\@WanaDecryptor@.exe
 Task 7-3
 What is the parent process of PID 740?
 Answer is: tasksche.exe
+
+=====
+
+Task 8-1
+Read the above and continue learning!
+No answer needed
+
