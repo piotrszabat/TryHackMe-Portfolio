@@ -8,3 +8,12 @@ Task 2-1
 I went through the case details and am ready to find out more.
 No answer needed
 
+=====
+
+Task 3-1
+What field is used to keep track of all the active processes? Only enter the fields' name.
+Answer is: ActiveProcessLinks
+
+Task 3-2
+What field is used to store the PID of a process? Only enter the fields' name.
+Answer is: UniqueProcessId
