@@ -17,3 +17,14 @@ Answer is: ActiveProcessLinks
 Task 3-2
 What field is used to store the PID of a process? Only enter the fields' name.
 Answer is: UniqueProcessId
+
+=====
+
+Task 4-1
+What is the PID of the csrss.exe process that has 12 threads? You can use the pslist.txt file to find the answer.
+Answer is: 440
+
+Task 4-2
+What is the (memory) Offset(V) of the process with PID 5672? You can use the pslist.txt file to find the answer.
+Answer is: 0x990b29293080 
+
