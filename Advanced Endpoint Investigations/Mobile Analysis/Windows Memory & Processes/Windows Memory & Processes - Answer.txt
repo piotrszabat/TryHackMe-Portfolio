@@ -4,6 +4,8 @@ Task 1-1
 Ready to start analyzing your first memory dump?
 No answer needed
 
+=====
+
 Task 2-1
 I went through the case details and am ready to find out more.
 No answer needed
@@ -28,3 +30,8 @@ Task 4-2
 What is the (memory) Offset(V) of the process with PID 5672? You can use the pslist.txt file to find the answer.
 Answer is: 0x990b29293080 
 
+=====
+
+Task 5-1
+What is the parentID (PPID) of the services.exe (PID 664) process? Use the processtree.txt file to answer the question.
+Answer is: 524
