@@ -35,3 +35,8 @@ Answer is: 0x990b29293080
 Task 5-1
 What is the parentID (PPID) of the services.exe (PID 664) process? Use the processtree.txt file to answer the question.
 Answer is: 524
+
+Task 5-2
+What is the ImageFileName of the process that has the PID 7788? Use the processtree.txt file to answer the question.
+Answer is: FTK Imager.exe
+
