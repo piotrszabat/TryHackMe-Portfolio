@@ -40,3 +40,13 @@ Task 5-2
 What is the ImageFileName of the process that has the PID 7788? Use the processtree.txt file to answer the question.
 Answer is: FTK Imager.exe
 
+=====
+
+Task 6-1
+What is the number of processes that have 0 Threads? Use the psscan.txt file to answer the question.
+Answer is: 3
+
+Task 6-2
+What is the number of processes that have the Exit Time filled in? Use the psxview.txt file to answer the question.
+Answer is: 3
+
