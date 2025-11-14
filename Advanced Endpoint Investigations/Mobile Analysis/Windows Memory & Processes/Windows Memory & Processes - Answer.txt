@@ -62,4 +62,8 @@ Task 8-1
 What is the name of the likely compromised user?
 Answer is: operator
 
-g
+Task 8-2
+What is the ID assigned to the MITRE Tactic Command and Control?
+Answer is: TA0011
+
+
