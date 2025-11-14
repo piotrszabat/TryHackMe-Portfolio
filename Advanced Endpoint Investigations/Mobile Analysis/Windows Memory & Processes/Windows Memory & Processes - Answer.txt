@@ -50,3 +50,15 @@ Task 6-2
 What is the number of processes that have the Exit Time filled in? Use the psxview.txt file to answer the question.
 Answer is: 3
 
+=====
+
+Task 7-1
+What is the path of the process with PID 7788?
+Answer is: C:\Program Files\AccessData\FTK Imager\FTK Imager.exe
+
+=====
+
+Task 8-1
+What is the name of the likely compromised user?
+Answer is: operator
+
