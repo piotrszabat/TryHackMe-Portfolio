@@ -15,6 +15,23 @@ No answer needed
 =====
 
 Task 4-1
+Which plugin should be used to identify user login sessions from memory?
+Answer is: windows.sessions
+
+Task 4-2
+Which user was logged into a console session when WINWORD.EXE and updater.exe were executed?
+Answer is: DESKTOP-3NMNM0H/operator
+
+Task 4-3
+According to the UserAssist data, which executable related to command-line activity was launched via a shortcut?
+Answer is: cmd.exe
+
+Task 4-4
+Which Volatility 3 plugin reveals evidence of programs launched by a user through the graphical interface?
+Answer is: windows.registry.userassist
+
+
+
 
 
 
