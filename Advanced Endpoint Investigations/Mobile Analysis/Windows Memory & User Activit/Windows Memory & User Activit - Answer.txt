@@ -30,6 +30,13 @@ Task 4-4
 Which Volatility 3 plugin reveals evidence of programs launched by a user through the graphical interface?
 Answer is: windows.registry.userassist
 
+=====
+
+Task 5-1
+What file was passed to WINWORD.EXE?
+Answer is: cv-resume-test.docm
+
+
 
 
 
