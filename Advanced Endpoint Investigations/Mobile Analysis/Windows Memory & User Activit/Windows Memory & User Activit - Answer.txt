@@ -36,6 +36,18 @@ Task 5-1
 What file was passed to WINWORD.EXE?
 Answer is: cv-resume-test.docm
 
+Task 5-2
+What is the name of the Volatility3 plugin that extracts open files, registry keys, and kernel objects from process handle tables?
+Answer is: windows.handles
+
+Task 5-3
+What is the full device path where the.docm file was found open in WINWORD.EXE’s memory space?
+Answer is: C:\Users\operator\Documents\cv-resume-test.docm
+
+Task 5-4
+What Windows command-line switch was used to open WINWORD.EXE in a new instance?
+Answer is: /n
+
 
 
 
