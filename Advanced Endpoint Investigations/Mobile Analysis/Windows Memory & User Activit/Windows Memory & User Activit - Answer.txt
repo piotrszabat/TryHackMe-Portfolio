@@ -48,6 +48,20 @@ Task 5-4
 What Windows command-line switch was used to open WINWORD.EXE in a new instance?
 Answer is: /n
 
+=====
+
+Task 6-1
+What command did we use to confirm that the dumped .dat file is a Microsoft Word document?
+Answer is: file
+
+Task 6-2
+According to the olevba output, what is the name of the file downloaded and executed by the macro?
+Answer is: pdfupdater.exe
+
+Task 6-3
+What is the full URL hardcoded in the macro for downloading the executable?
+Answer is: http://attacker.thm/pdfupdater.exe
+
 
 
 
