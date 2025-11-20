@@ -62,6 +62,10 @@ Task 6-3
 What is the full URL hardcoded in the macro for downloading the executable?
 Answer is: http://attacker.thm/pdfupdater.exe
 
+Task 7-1 
+End of room
+No needed action
+
 
 
 
